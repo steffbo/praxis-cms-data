@@ -61,6 +61,13 @@
       "alt": "Praxisflur mit warmer Atmosphäre",
       "active": true,
       "order": 5
+    },
+    {
+      "id": "gallery-1768339409064-6reko3ega",
+      "src": "/images/gallery/praxis-1000068385-1768339407196.png",
+      "alt": "",
+      "active": true,
+      "order": 6
     }
   ],
   "hours": {
