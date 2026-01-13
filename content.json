@@ -1,0 +1,412 @@
+{
+  "site": {
+    "name": "Dr. med. Beate Hüttl",
+    "tagline": "HAUTÄRZTIN - LASERPRAXIS",
+    "phone": "(030) 405 33 755",
+    "fax": "(030) 405 33 788",
+    "email": "praxis@dr-huettl.de",
+    "address": {
+      "street": "Kurfürstenstraße 28",
+      "zip": "13467",
+      "city": "Berlin-Hermsdorf",
+      "lat": 52.6088019,
+      "lon": 13.3028883
+    },
+    "doctolib": "https://www.doctolib.de/privatpraxis/berlin/dr-med-beate-huettl-hautaerztin-laserpraxis",
+    "logos": [
+      {
+        "id": "logo-default",
+        "src": "/images/logo-previous-1768227353169.png",
+        "active": false
+      },
+      {
+        "id": "logo-1768227350390",
+        "src": "/images/logo-1768227350388.png",
+        "active": true
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "id": "gallery-1",
+      "src": "/images/gallery/wartezimmer.webp",
+      "alt": "Heller und einladender Wartebereich",
+      "active": true,
+      "order": 1
+    },
+    {
+      "id": "gallery-2",
+      "src": "/images/gallery/behandlungsraum.webp",
+      "alt": "Moderner Behandlungsraum",
+      "active": true,
+      "order": 2
+    },
+    {
+      "id": "gallery-3",
+      "src": "/images/gallery/laserraum.webp",
+      "alt": "Spezialisierter Laser-Behandlungsraum",
+      "active": true,
+      "order": 3
+    },
+    {
+      "id": "gallery-5",
+      "src": "/images/gallery/zertifizierungen.webp",
+      "alt": "Unsere Zertifizierungen und Qualifikationen",
+      "active": true,
+      "order": 4
+    },
+    {
+      "id": "gallery-4",
+      "src": "/images/gallery/flur.webp",
+      "alt": "Praxisflur mit warmer Atmosphäre",
+      "active": true,
+      "order": 5
+    }
+  ],
+  "hours": {
+    "office": [
+      {
+        "days": "Montag",
+        "time": "12:30 – 19:00"
+      },
+      {
+        "days": "Dienstag",
+        "time": "08:15 – 18:00"
+      },
+      {
+        "days": "Mittwoch",
+        "time": "08:15 – 15:00"
+      },
+      {
+        "days": "Donnerstag",
+        "time": "12:30 – 19:00"
+      },
+      {
+        "days": "Freitag",
+        "time": "08:15 – 15:00"
+      }
+    ]
+  },
+  "pages": {
+    "home": {
+      "hero": {
+        "title": "Willkommen in Ihrer Hautarztpraxis",
+        "subtitle": "Kompetente dermatologische Versorgung in Berlin-Hermsdorf",
+        "intro": "Wir sind gern für Sie da, um Ihnen in all Ihren Belangen rund um die Haut mit allen uns zur Verfügung stehenden Mitteln und Möglichkeiten zu helfen. Mit modernster Technik im Bereich von Diagnostik und Therapie, einem breiten Spektrum an Behandlungsmöglichkeiten inklusive diverser Laser und viel Erfahrung werden wir Sie bestmöglich bei Ihren dermatologischen Anliegen begleiten und unterstützen.",
+        "cta": "Online-Termin buchen"
+      },
+      "praxis": {
+        "title": "Unsere Praxis"
+      },
+      "notice": {
+        "title": "Wichtiger Hinweis",
+        "text": "Unsere Praxis ist eine reine Privat- und Selbstzahlerpraxis. Als gesetzlich Versicherte:r müssen Sie sämtliche Kosten selbst tragen."
+      },
+      "cta": {
+        "title": "Termin vereinbaren",
+        "text": "Vereinbaren Sie jetzt einen Termin für Ihre Behandlung — online über Doctolib oder telefonisch.",
+        "buttonText": "Online-Termin buchen"
+      }
+    },
+    "leistungen": {
+      "title": "Unsere Leistungen",
+      "intro": "Wir bieten Ihnen ein umfassendes Spektrum dermatologischer Behandlungen mit modernster Technik und langjähriger Erfahrung.",
+      "privatpraxis": {
+        "title": "Privatpraxis & Selbstzahler",
+        "text": "Unsere Praxis ist eine reine Privat- und Selbstzahlerpraxis. Als gesetzlich Versicherte:r müssen Sie sämtliche Kosten selbst tragen."
+      },
+      "services": [
+        {
+          "id": "hautkrebsvorsorge",
+          "title": "Hautkrebsvorsorge",
+          "description": "Hautkrebsvorsorge inkl. Computervideo-Dokumentation mit KI/AI Scoring (Deep Learning Model).",
+          "icon": "🔬",
+          "image": null,
+          "active": true,
+          "order": 1
+        },
+        {
+          "id": "mykologie",
+          "title": "Mykologie / Pilzerkrankungen",
+          "description": "Pilzerkrankungen mit PCR-Diagnostik, zertifiziert nach Instand Ringversuch. Mitglied DMykG (Deutschsprachige Mykologische Gesellschaft). Lasertherapie bei Warzen und Nagelpilz.",
+          "icon": "🔎",
+          "image": null,
+          "active": true,
+          "order": 2
+        },
+        {
+          "id": "lasertherapie",
+          "title": "Dermatologische Lasertherapie",
+          "description": "Zertifiziert nach DDA (Deutsche Dermatologische Akademie). Mitglied der DDL. Behandlung von Altersflecken, Couperose, störenden Hautmalen und Haarentfernung.",
+          "icon": "💫",
+          "image": null,
+          "active": true,
+          "order": 3
+        },
+        {
+          "id": "allergologie",
+          "title": "Allergologie",
+          "description": "Allergiediagnostik u.a. mit Macro Array Diagnostics und IgE, zertifiziert nach ISO 17043.",
+          "icon": "🌸",
+          "image": null,
+          "active": true,
+          "order": 4
+        },
+        {
+          "id": "ambulante-operationen",
+          "title": "Ambulante Operationen",
+          "description": "Ambulante, auch ästhetische Operationen in unserer Praxis.",
+          "icon": "⚕️",
+          "image": null,
+          "active": true,
+          "order": 5
+        },
+        {
+          "id": "akupunktur",
+          "title": "Akupunktur & Homöopathie",
+          "description": "Ergänzende Behandlung durch Akupunktur und Homöopathie.",
+          "icon": "📍",
+          "image": null,
+          "active": true,
+          "order": 6
+        },
+        {
+          "id": "kinderhautarzt",
+          "title": "Kinder- und Jugenddermatologie",
+          "description": "Behandlung von Hauterkrankungen bei Kindern und Jugendlichen.",
+          "icon": "👶",
+          "image": null,
+          "active": true,
+          "order": 7
+        },
+        {
+          "id": "dermato-onkologie",
+          "title": "Dermato-onkologische Nachsorge",
+          "description": "Nachsorge bei Hautkrebs und anderen dermato-onkologischen Erkrankungen.",
+          "icon": "🏥",
+          "image": null,
+          "active": true,
+          "order": 8
+        },
+        {
+          "id": "psychosomatik",
+          "title": "Psychosomatische Grundversorgung",
+          "description": "Betreuung bei psychosomatischen Hauterkrankungen.",
+          "icon": "🧠",
+          "image": null,
+          "active": true,
+          "order": 9
+        },
+        {
+          "id": "genetik",
+          "title": "Genetische Beratung",
+          "description": "Qualifikation zur fachgebundenen genetischen Beratung.",
+          "icon": "🧬",
+          "image": null,
+          "active": true,
+          "order": 10
+        }
+      ]
+    },
+    "team": {
+      "title": "Unser Team",
+      "intro": "Lernen Sie unsere erfahrenen Fachärztinnen kennen.",
+      "doctors": [
+        {
+          "id": "dr-huettl",
+          "name": "Dr. med. Beate Hüttl",
+          "title": "Fachärztin für Dermatologie",
+          "specialization": "Praxisinhaberin, Lasermedizin, Mykologie, Hygienebeauftragte Ärztin",
+          "bio": "Dr. Hüttl leitet die Praxis in Berlin-Hermsdorf. Mit modernster Technik und einem breiten Spektrum an Behandlungsmöglichkeiten begleitet sie Patienten bei allen dermatologischen Anliegen. Die Praxis ist re-zertifiziert nach DIN EN ISO 9001.",
+          "cv": "",
+          "certifications": [],
+          "memberships": [],
+          "languages": [
+            "Deutsch",
+            "Englisch"
+          ],
+          "images": [
+            {
+              "id": "img-huettl-1",
+              "src": "/images/team/dr-huettl.jpg",
+              "active": true
+            }
+          ],
+          "doctolib": "https://www.doctolib.de/hautarzt/berlin/beate-huettl",
+          "active": true,
+          "order": 1
+        },
+        {
+          "id": "dr-czekajlo",
+          "name": "Dr. med. Elzbieta M. Czekajlo",
+          "title": "Fachärztin für Dermatologie",
+          "specialization": "Allgemeine Dermatologie, Lasertherapie",
+          "bio": "Dr. Czekajlo ist Fachärztin für Dermatologie und unterstützt unser Team mit ihrer Expertise.",
+          "cv": "",
+          "certifications": [],
+          "memberships": [],
+          "languages": [
+            "Deutsch",
+            "Englisch"
+          ],
+          "images": [
+            {
+              "id": "img-czekajlo-1",
+              "src": "/images/team/czekajlo.jpg",
+              "active": true
+            }
+          ],
+          "doctolib": "https://www.doctolib.de/hautarzt/berlin/elzbieta-malgorzata-czekajlo",
+          "active": true,
+          "order": 2
+        },
+        {
+          "id": "franziska-remer",
+          "name": "Franziska Remer",
+          "title": "Fachärztin für Dermatologie",
+          "specialization": "Allgemeine Dermatologie",
+          "bio": "Frau Remer verstärkt unser Team und ist für Sie da, um Ihnen in all Ihren Belangen rund um die Haut zu helfen.",
+          "cv": "Charité\nHeiki",
+          "certifications": [
+            "Laserschutzkurs"
+          ],
+          "memberships": [
+            "DDG",
+            "BVDD",
+            "ABD",
+            "International Dermascopy Society",
+            "DGDC"
+          ],
+          "languages": [
+            "Deutsch",
+            "Englisch"
+          ],
+          "images": [
+            {
+              "id": "img-remer-1",
+              "src": "/images/team/franziska-remer.jpg",
+              "active": true
+            }
+          ],
+          "doctolib": "https://www.doctolib.de/hautarzt/berlin/franziska-remer",
+          "active": true,
+          "order": 3
+        },
+        {
+          "id": "team-1768255020796",
+          "name": "Stefan",
+          "title": "irgendwas mit Software",
+          "specialization": "Web",
+          "bio": "Ich mach hier nur die Website",
+          "cv": "",
+          "certifications": [],
+          "memberships": [],
+          "languages": [
+            "🇩🇪 🇬🇧"
+          ],
+          "images": [
+            {
+              "id": "img-1768255093883",
+              "src": "/images/team/placeholder-1768255093879.jpg",
+              "active": true
+            }
+          ],
+          "doctolib": "",
+          "active": false,
+          "order": 4
+        }
+      ]
+    },
+    "kontakt": {
+      "title": "Kontakt",
+      "intro": "Wir freuen uns auf Ihren Besuch. Vereinbaren Sie gerne einen Termin online über Doctolib. Sollte unsere Antwort auf Ihre E-Mail Anfrage aus praxisorganisatorischen Gründen nicht kurzfristig erfolgen können, möchten wir Sie bitten, uns erneut - dann aber bitte per Telefon oder Fax - zu kontaktieren.",
+      "directions": {
+        "public": "S-Bahn: Linie S1, Haltestelle S Hermsdorf • Bus: Linie 125, Haltestelle Mühlenfeldstr.",
+        "parking": "Gute Parkmöglichkeiten vorhanden",
+        "accessibility": "1. OG ohne Aufzug"
+      }
+    },
+    "impressum": {
+      "title": "Impressum",
+      "content": {
+        "responsible": {
+          "name": "Dr. med. Beate Hüttl",
+          "title": "Ärztin",
+          "practice": "Hautarztpraxis Dr. Beate Hüttl",
+          "address": "Kurfürstenstraße 28, 13467 Berlin-Hermsdorf"
+        },
+        "contact": {
+          "phone": "(030) 405 33 755",
+          "fax": "(030) 405 33 788",
+          "email": "praxis@dr-huettl.de",
+          "website": "www.dr-huettl.de"
+        },
+        "professional": {
+          "title": "Berufsbezeichnung: Ärztin",
+          "origin": "Berufsbezeichnung verleihender Staat: Bundesrepublik Deutschland",
+          "supervisory": "Zuständige Aufsichtsbehörde: Landesamt für Gesundheit und Soziales Berlin, Postfach 310929, 10639 Berlin",
+          "chamber": "Ärztekammer Berlin, Friedrichstraße 16, 10969 Berlin",
+          "chamberUrl": "https://www.aerztekammer-berlin.de",
+          "regulations": [
+            "Berufsordnung der Ärztekammer Berlin",
+            "Gesetz über die Kammern und die Berufsgerichtsbarkeit der Ärzte (Berliner Kammergesetz)",
+            "Ärzteweiterbildungsgesetz",
+            "Bundesärzteordnung (BÄO)",
+            "Approbationsordnung für Ärzte (ÄApprO 2002)"
+          ]
+        },
+        "insurance": {
+          "provider": "Deutsche Ärzteversicherung Allgemeine Zweigniederlassung der AXA Versicherung AG",
+          "address": "51171 Köln"
+        },
+        "legal": {
+          "responsible": "Diensteanbieter und Verantwortlicher im Sinne von §5 DDG bzw. §55 RStV: Dr. Beate Hüttl, Kurfürstenstraße 28, 13467 Berlin-Hermsdorf"
+        },
+        "certifications": [
+          "Qualitätsmanagementsystem nach DIN EN ISO 9001:2010 (seit 25.03.2010)",
+          "Lasertherapie zertifiziert nach DDA",
+          "Mykologie PCR-Diagnostik zertifiziert nach Instand",
+          "Allergiediagnostik IgE zertifiziert nach ISO 17043"
+        ],
+        "memberships": [
+          "DDL - Deutsche Dermatologische Lasergesellschaft",
+          "DMykG - Deutschsprachige Mykologische Gesellschaft"
+        ],
+        "vat": "USt-IdNr.: DE XXX XXX XXX"
+      }
+    },
+    "datenschutz": {
+      "title": "Datenschutzerklärung",
+      "lastUpdated": "Januar 2026",
+      "sections": [
+        {
+          "title": "1. Verantwortlicher",
+          "content": "Verantwortlich für die Datenverarbeitung auf dieser Website ist:\n\nDr. med. Beate R. Hüttl\nKurfürstenstraße 28\n13467 Berlin\nE-Mail: kontakt@dr-huettl.de"
+        },
+        {
+          "title": "2. Erhebung und Speicherung personenbezogener Daten",
+          "content": "Beim Besuch unserer Website werden automatisch Informationen an unseren Server übermittelt. Diese Informationen werden temporär in einem Log-File gespeichert."
+        },
+        {
+          "title": "3. Kontaktformular",
+          "content": "Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben zur Bearbeitung der Anfrage gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter."
+        },
+        {
+          "title": "4. Analyse-Tools",
+          "content": "Diese Website verwendet Umami Analytics, ein datenschutzfreundliches Analyse-Tool. Es werden keine Cookies gesetzt und keine personenbezogenen Daten gespeichert. Die Datenverarbeitung erfolgt auf unserem eigenen Server in Deutschland."
+        },
+        {
+          "title": "5. Ihre Rechte",
+          "content": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung Ihrer personenbezogenen Daten. Wenden Sie sich hierzu an die oben genannte Adresse."
+        }
+      ]
+    }
+  },
+  "certifications": {
+    "iso": "DIN EN ISO 9001:2010",
+    "isoSince": "25.03.2010",
+    "laser": "DDA (Deutsche Dermatologische Akademie)",
+    "mykologie": "Instand Ringversuch",
+    "allergie": "ISO 17043"
+  }
+}
