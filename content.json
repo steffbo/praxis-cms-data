@@ -84,6 +84,10 @@
       {
         "days": "Freitag",
         "time": "08:15 – 15:00"
+      },
+      {
+        "days": "Hallo",
+        "time": "Franzi"
       }
     ]
   },
