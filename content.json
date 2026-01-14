@@ -304,12 +304,12 @@
             {
               "id": "img-1768255093883",
               "src": "/images/team/placeholder-1768255093879.jpg",
-              "active": false
+              "active": true
             },
             {
               "id": "img-1768429726766",
               "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/team/remer-1768429725577.jpg",
-              "active": true
+              "active": false
             }
           ],
           "doctolib": "",
