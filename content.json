@@ -15,11 +15,6 @@
     "doctolib": "https://www.doctolib.de/privatpraxis/berlin/dr-med-beate-huettl-hautaerztin-laserpraxis",
     "logos": [
       {
-        "id": "logo-default",
-        "src": "/images/logo-previous-1768227353169.png",
-        "active": false
-      },
-      {
         "id": "logo-1768227350390",
         "src": "/images/logo-1768227350388.png",
         "active": false
