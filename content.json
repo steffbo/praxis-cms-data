@@ -22,12 +22,12 @@
       {
         "id": "logo-1768227350390",
         "src": "/images/logo-1768227350388.png",
-        "active": true
+        "active": false
       },
       {
         "id": "logo-1768409977144",
         "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/logo-1768409976084.png",
-        "active": false
+        "active": true
       }
     ]
   },
