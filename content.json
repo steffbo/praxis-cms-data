@@ -334,6 +334,11 @@
             {
               "id": "img-1768255093883",
               "src": "/images/team/placeholder-1768255093879.jpg",
+              "active": false
+            },
+            {
+              "id": "img-1768488397564",
+              "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/team/pngaaa-com-1695647-1768488397583.png",
               "active": true
             }
           ],
