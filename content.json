@@ -340,6 +340,23 @@
           "doctolib": "",
           "active": false,
           "order": 4
+        },
+        {
+          "id": "team-1768492858479",
+          "name": "Foo",
+          "title": "Bar",
+          "specialization": "sfgddhg",
+          "bio": "",
+          "languages": [
+            "Deutsch"
+          ],
+          "images": [],
+          "doctolib": "",
+          "active": true,
+          "order": 5,
+          "cv": "",
+          "certifications": [],
+          "memberships": []
         }
       ]
     },
