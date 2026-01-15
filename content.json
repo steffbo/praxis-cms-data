@@ -242,6 +242,18 @@
           "image": null,
           "active": true,
           "order": 11
+        },
+        {
+          "id": "service-1768495398202",
+          "title": "asd",
+          "intro": "asdasd",
+          "description": "",
+          "duration": "",
+          "price": "",
+          "icon": "⚕️",
+          "image": null,
+          "active": true,
+          "order": 12
         }
       ]
     },
