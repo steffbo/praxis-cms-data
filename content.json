@@ -230,18 +230,6 @@
           "image": null,
           "active": true,
           "order": 10
-        },
-        {
-          "id": "service-1768495390533",
-          "title": "asdasdasd",
-          "intro": "asdasda",
-          "description": "asdsadas",
-          "duration": "",
-          "price": "",
-          "icon": "⚕️",
-          "image": null,
-          "active": true,
-          "order": 11
         }
       ]
     },
