@@ -18,6 +18,11 @@
         "id": "logo-1768409977144",
         "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/logo-1768409976084.png",
         "active": true
+      },
+      {
+        "id": "logo-1768487915118",
+        "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/logo-1768487913123.png",
+        "active": false
       }
     ]
   },
