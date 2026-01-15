@@ -1,5 +1,4 @@
-# Impressumasd
-
+# Impressum
 ## Angaben gemäß § 5 DDG
 Hautarztpraxis Dr. Beate Hüttl
 {{site.address.street}}
