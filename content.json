@@ -242,6 +242,18 @@
           "image": null,
           "active": true,
           "order": 11
+        },
+        {
+          "id": "service-1768494756374",
+          "title": "asdsdgf",
+          "intro": "sdfgg",
+          "description": "",
+          "duration": "",
+          "price": "",
+          "icon": "⚕️",
+          "image": null,
+          "active": true,
+          "order": 12
         }
       ]
     },
