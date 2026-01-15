@@ -340,20 +340,6 @@
           "doctolib": "",
           "active": false,
           "order": 4
-        },
-        {
-          "id": "team-1768489249185",
-          "name": "Neues Teammitglied",
-          "title": "Berufsbezeichnung",
-          "specialization": "",
-          "bio": "",
-          "languages": [
-            "Deutsch"
-          ],
-          "images": [],
-          "doctolib": "",
-          "active": true,
-          "order": 5
         }
       ]
     },
