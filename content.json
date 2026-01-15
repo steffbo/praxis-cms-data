@@ -114,7 +114,10 @@
         {
           "id": "hautkrebsvorsorge",
           "title": "Hautkrebsvorsorge",
+          "intro": "Hautkrebsvorsorge inkl. Computervideo-Dokumentation mit KI/AI Scoring (Deep Learning Model).",
           "description": "Hautkrebsvorsorge inkl. Computervideo-Dokumentation mit KI/AI Scoring (Deep Learning Model).",
+          "duration": "",
+          "price": "",
           "icon": "🔬",
           "image": null,
           "active": true,
@@ -123,7 +126,10 @@
         {
           "id": "mykologie",
           "title": "Mykologie / Pilzerkrankungen",
+          "intro": "Pilzerkrankungen mit PCR-Diagnostik, zertifiziert nach Instand Ringversuch. Mitglied DMykG (Deutschsprachige Mykologische Gesellschaft). Lasertherapie bei Warzen und Nagelpilz.",
           "description": "Pilzerkrankungen mit PCR-Diagnostik, zertifiziert nach Instand Ringversuch. Mitglied DMykG (Deutschsprachige Mykologische Gesellschaft). Lasertherapie bei Warzen und Nagelpilz.",
+          "duration": "",
+          "price": "",
           "icon": "🔎",
           "image": null,
           "active": true,
@@ -132,7 +138,10 @@
         {
           "id": "lasertherapie",
           "title": "Dermatologische Lasertherapie",
+          "intro": "Zertifiziert nach DDA (Deutsche Dermatologische Akademie). Mitglied der DDL. Behandlung von Altersflecken, Couperose, störenden Hautmalen und Haarentfernung.",
           "description": "Zertifiziert nach DDA (Deutsche Dermatologische Akademie). Mitglied der DDL. Behandlung von Altersflecken, Couperose, störenden Hautmalen und Haarentfernung.",
+          "duration": "",
+          "price": "",
           "icon": "💫",
           "image": null,
           "active": true,
@@ -141,7 +150,10 @@
         {
           "id": "allergologie",
           "title": "Allergologie",
+          "intro": "Allergiediagnostik u.a. mit Macro Array Diagnostics und IgE, zertifiziert nach ISO 17043.",
           "description": "Allergiediagnostik u.a. mit Macro Array Diagnostics und IgE, zertifiziert nach ISO 17043.",
+          "duration": "",
+          "price": "",
           "icon": "🌸",
           "image": null,
           "active": true,
@@ -150,7 +162,10 @@
         {
           "id": "ambulante-operationen",
           "title": "Ambulante Operationen",
+          "intro": "Ambulante, auch ästhetische Operationen in unserer Praxis.",
           "description": "Ambulante, auch ästhetische Operationen in unserer Praxis.",
+          "duration": "",
+          "price": "",
           "icon": "⚕️",
           "image": null,
           "active": true,
@@ -159,7 +174,10 @@
         {
           "id": "akupunktur",
           "title": "Akupunktur & Homöopathie",
+          "intro": "Ergänzende Behandlung durch Akupunktur und Homöopathie.",
           "description": "Ergänzende Behandlung durch Akupunktur und Homöopathie.",
+          "duration": "",
+          "price": "",
           "icon": "📍",
           "image": null,
           "active": true,
@@ -168,7 +186,10 @@
         {
           "id": "kinderhautarzt",
           "title": "Kinder- und Jugenddermatologie",
+          "intro": "Behandlung von Hauterkrankungen bei Kindern und Jugendlichen.",
           "description": "Behandlung von Hauterkrankungen bei Kindern und Jugendlichen.",
+          "duration": "",
+          "price": "",
           "icon": "👶",
           "image": null,
           "active": true,
@@ -177,7 +198,10 @@
         {
           "id": "dermato-onkologie",
           "title": "Dermato-onkologische Nachsorge",
+          "intro": "Nachsorge bei Hautkrebs und anderen dermato-onkologischen Erkrankungen.",
           "description": "Nachsorge bei Hautkrebs und anderen dermato-onkologischen Erkrankungen.",
+          "duration": "",
+          "price": "",
           "icon": "🏥",
           "image": null,
           "active": true,
@@ -186,7 +210,10 @@
         {
           "id": "psychosomatik",
           "title": "Psychosomatische Grundversorgung",
+          "intro": "Betreuung bei psychosomatischen Hauterkrankungen.",
           "description": "Betreuung bei psychosomatischen Hauterkrankungen.",
+          "duration": "",
+          "price": "",
           "icon": "🧠",
           "image": null,
           "active": true,
@@ -195,10 +222,13 @@
         {
           "id": "genetik",
           "title": "Genetische Beratung",
+          "intro": "Qualifikation zur fachgebundenen genetischen Beratung.",
           "description": "Qualifikation zur fachgebundenen genetischen Beratung.",
+          "duration": "",
+          "price": "",
           "icon": "🧬",
           "image": null,
-          "active": true,
+          "active": false,
           "order": 10
         }
       ]
