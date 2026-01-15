@@ -230,18 +230,6 @@
           "image": null,
           "active": true,
           "order": 10
-        },
-        {
-          "id": "service-1768494716043",
-          "title": "asd",
-          "intro": "asdasd",
-          "description": "adsad",
-          "duration": "ad",
-          "price": "asd",
-          "icon": "⚕️",
-          "image": null,
-          "active": true,
-          "order": 11
         }
       ]
     },
