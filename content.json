@@ -17,12 +17,12 @@
       {
         "id": "logo-1768563719231",
         "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/android-chrome-192x192-1768563719339.png",
-        "active": true
+        "active": false
       },
       {
         "id": "logo-1768571881597",
         "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/android-chrome-192x192-1768571881716.png",
-        "active": false
+        "active": true
       }
     ]
   },
