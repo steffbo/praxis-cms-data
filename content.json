@@ -61,7 +61,7 @@
       "id": "gallery-5",
       "src": "/images/gallery/zertifizierungen.webp",
       "alt": "Unsere Zertifizierungen und Qualifikationen",
-      "active": true,
+      "active": false,
       "order": 4
     },
     {
