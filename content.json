@@ -156,8 +156,8 @@
           "description": "Zertifiziert nach DDA (Deutsche Dermatologische Akademie). Mitglied der DDL. Behandlung von Altersflecken, Couperose, störenden Hautmalen und Haarentfernung.",
           "duration": "",
           "price": "",
-          "icon": "💫",
-          "image": null,
+          "icon": null,
+          "image": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/services/huettl-logo-1768776364972.png",
           "active": true,
           "order": 3
         },
