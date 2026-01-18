@@ -70,13 +70,6 @@
       "alt": "Praxisflur mit warmer AtmosphÃ¤re",
       "active": true,
       "order": 5
-    },
-    {
-      "id": "gallery-1768776321089-iaaan79p8",
-      "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/gallery/huettl-logo-1768776321602.png",
-      "alt": "",
-      "active": true,
-      "order": 6
     }
   ],
   "hours": {
