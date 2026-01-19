@@ -206,7 +206,7 @@
           "price": "",
           "icon": "👶",
           "image": null,
-          "active": true,
+          "active": false,
           "order": 7
         },
         {
