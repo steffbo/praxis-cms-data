@@ -1,0 +1,55 @@
+{
+  "month": "2026-01",
+  "totals": {
+    "pageviews": 20,
+    "visitors": 2,
+    "sessions": 0
+  },
+  "days": {
+    "2026-01-21": {
+      "pageviews": 20,
+      "visitors": 2,
+      "sessions": 0,
+      "visitorHashes": [
+        "721970448fac",
+        "995fbf627728"
+      ],
+      "pages": {
+        "/admin": 2,
+        "/": 9,
+        "/kontakt": 1,
+        "/#top": 1,
+        "/admin.html": 1,
+        "/datenschutz": 1,
+        "/impressum": 5
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 9,
+          "properties": {
+            "doctor": {
+              "general": 2,
+              "Frau Remer": 5,
+              "Dr. Hüttl": 2
+            },
+            "location": {
+              "hero": 1,
+              "team-card": 8
+            }
+          }
+        }
+      },
+      "devices": {
+        "laptop": 2
+      },
+      "browsers": {
+        "firefox": 1,
+        "chrome": 1
+      },
+      "os": {
+        "Mac OS": 2
+      },
+      "referrers": {}
+    }
+  }
+}
