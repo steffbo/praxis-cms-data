@@ -1,22 +1,27 @@
 {
   "month": "2026-01",
   "totals": {
-    "pageviews": 46,
-    "visitors": 2,
+    "pageviews": 60,
+    "visitors": 7,
     "sessions": 0
   },
   "days": {
     "2026-01-21": {
-      "pageviews": 46,
-      "visitors": 2,
+      "pageviews": 60,
+      "visitors": 7,
       "sessions": 0,
       "visitorHashes": [
         "721970448fac",
-        "995fbf627728"
+        "995fbf627728",
+        "b23aa2a72519",
+        "5b8724f30090",
+        "11a145260b2d",
+        "35739ce3bbd6",
+        "2246deaddb8c"
       ],
       "pages": {
-        "/admin": 14,
-        "/": 20,
+        "/admin": 15,
+        "/": 33,
         "/kontakt": 2,
         "/#top": 3,
         "/admin.html": 1,
@@ -44,14 +49,17 @@
         }
       },
       "devices": {
-        "laptop": 2
+        "laptop": 5,
+        "mobile": 2
       },
       "browsers": {
-        "firefox": 1,
-        "chrome": 1
+        "firefox": 2,
+        "chrome": 4,
+        "safari": 1
       },
       "os": {
-        "Mac OS": 2
+        "Mac OS": 5,
+        "Android": 2
       },
       "referrers": {}
     }
