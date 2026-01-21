@@ -1,13 +1,13 @@
 {
   "month": "2026-01",
   "totals": {
-    "pageviews": 20,
+    "pageviews": 28,
     "visitors": 2,
     "sessions": 0
   },
   "days": {
     "2026-01-21": {
-      "pageviews": 20,
+      "pageviews": 28,
       "visitors": 2,
       "sessions": 0,
       "visitorHashes": [
@@ -15,8 +15,8 @@
         "995fbf627728"
       ],
       "pages": {
-        "/admin": 2,
-        "/": 9,
+        "/admin": 7,
+        "/": 12,
         "/kontakt": 1,
         "/#top": 1,
         "/admin.html": 1,
@@ -25,16 +25,20 @@
       },
       "events": {
         "doctolib-click": {
-          "total": 9,
+          "total": 23,
           "properties": {
             "doctor": {
-              "general": 2,
+              "general": 6,
               "Frau Remer": 5,
-              "Dr. Hüttl": 2
+              "Dr. Hüttl": 2,
+              "Franziska Remer": 8,
+              "Dr. med. Beate Hüttl": 1,
+              "Dr. med. Elzbieta M. Czekajlo": 1
             },
             "location": {
-              "hero": 1,
-              "team-card": 8
+              "hero": 2,
+              "team-card": 18,
+              "header": 3
             }
           }
         }
