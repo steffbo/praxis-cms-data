@@ -1,13 +1,13 @@
 {
   "month": "2026-01",
   "totals": {
-    "pageviews": 37,
+    "pageviews": 46,
     "visitors": 2,
     "sessions": 0
   },
   "days": {
     "2026-01-21": {
-      "pageviews": 37,
+      "pageviews": 46,
       "visitors": 2,
       "sessions": 0,
       "visitorHashes": [
@@ -15,10 +15,10 @@
         "995fbf627728"
       ],
       "pages": {
-        "/admin": 11,
-        "/": 17,
-        "/kontakt": 1,
-        "/#top": 1,
+        "/admin": 14,
+        "/": 20,
+        "/kontakt": 2,
+        "/#top": 3,
         "/admin.html": 1,
         "/datenschutz": 1,
         "/impressum": 5
