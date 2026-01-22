@@ -1,8 +1,8 @@
 {
   "month": "2026-01",
   "totals": {
-    "pageviews": 60,
-    "visitors": 7,
+    "pageviews": 103,
+    "visitors": 15,
     "sessions": 0
   },
   "days": {
@@ -60,6 +60,60 @@
       "os": {
         "Mac OS": 5,
         "Android": 2
+      },
+      "referrers": {}
+    },
+    "2026-01-22": {
+      "pageviews": 43,
+      "visitors": 8,
+      "sessions": 0,
+      "visitorHashes": [
+        "b0cf7832db11",
+        "6c7581b2446a",
+        "720301c7d3b9",
+        "a269400a6ef4",
+        "d287600f172d",
+        "3b63b31fbee8",
+        "a6d6f12f8779",
+        "75e9ba2136a6"
+      ],
+      "pages": {
+        "/": 35,
+        "/admin": 3,
+        "/admin.html": 1,
+        "/kontakt": 2,
+        "/#top": 2
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 5,
+          "properties": {
+            "doctor": {
+              "Franziska Remer": 2,
+              "general": 3
+            },
+            "location": {
+              "team-card": 2,
+              "hero": 3
+            }
+          }
+        }
+      },
+      "devices": {
+        "laptop": 4,
+        "mobile": 3,
+        "desktop": 1
+      },
+      "browsers": {
+        "firefox": 3,
+        "chrome": 3,
+        "safari": 1,
+        "edge": 1
+      },
+      "os": {
+        "Mac OS": 5,
+        "Android": 2,
+        "Windows": 1
       },
       "referrers": {}
     }
