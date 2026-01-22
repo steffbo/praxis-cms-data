@@ -272,6 +272,7 @@
             }
           ],
           "doctolib": "https://www.doctolib.de/hautarzt/berlin/beate-huettl",
+          "gender": "female",
           "active": true,
           "order": 1
         },
@@ -297,6 +298,7 @@
             }
           ],
           "doctolib": "https://www.doctolib.de/hautarzt/berlin/elzbieta-malgorzata-czekajlo",
+          "gender": "female",
           "active": true,
           "order": 2
         },
@@ -329,6 +331,7 @@
             }
           ],
           "doctolib": "https://www.doctolib.de/hautarzt/berlin/franziska-remer",
+          "gender": "female",
           "active": true,
           "order": 3
         },
@@ -352,8 +355,27 @@
             }
           ],
           "doctolib": "",
+          "gender": "female",
           "active": false,
           "order": 4
+        },
+        {
+          "id": "team-1769081913209",
+          "name": "Max Müller",
+          "title": "",
+          "specialization": "",
+          "bio": "",
+          "languages": [
+            "Deutsch"
+          ],
+          "images": [],
+          "doctolib": "",
+          "gender": "female",
+          "active": true,
+          "order": 5,
+          "cv": "",
+          "certifications": [],
+          "memberships": []
         }
       ]
     },
