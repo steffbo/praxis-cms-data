@@ -244,18 +244,6 @@
           "image": null,
           "active": true,
           "order": 10
-        },
-        {
-          "id": "service-1769077992924",
-          "title": "PDT",
-          "intro": "Moderne Therapie für flächige Hautkrebsvorstufen!",
-          "description": "Brutz",
-          "duration": "",
-          "price": "",
-          "icon": "⚕️",
-          "image": null,
-          "active": true,
-          "order": 11
         }
       ]
     },
