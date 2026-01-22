@@ -358,24 +358,6 @@
           "gender": "female",
           "active": false,
           "order": 4
-        },
-        {
-          "id": "team-1769081913209",
-          "name": "Max Müller",
-          "title": "",
-          "specialization": "",
-          "bio": "",
-          "languages": [
-            "Deutsch"
-          ],
-          "images": [],
-          "doctolib": "",
-          "gender": "female",
-          "active": true,
-          "order": 5,
-          "cv": "",
-          "certifications": [],
-          "memberships": []
         }
       ]
     },
