@@ -222,18 +222,6 @@
           "order": 8
         },
         {
-          "id": "psychosomatik",
-          "title": "Psychosomatische Grundversorgung",
-          "intro": "Betreuung bei psychosomatischen Hauterkrankungen.",
-          "description": "Betreuung bei psychosomatischen Hauterkrankungen.",
-          "duration": "",
-          "price": "",
-          "icon": "🧠",
-          "image": null,
-          "active": true,
-          "order": 9
-        },
-        {
           "id": "genetik",
           "title": "Genetische Beratung",
           "intro": "Qualifikation zur fachgebundenen genetischen Beratung.",
