@@ -170,7 +170,7 @@
           "price": "",
           "icon": "🌸",
           "image": null,
-          "active": false,
+          "active": true,
           "order": 4
         },
         {
