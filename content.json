@@ -232,6 +232,18 @@
           "image": null,
           "active": true,
           "order": 10
+        },
+        {
+          "id": "service-1769520729457",
+          "title": "Photodynamische Therapie (PDT)",
+          "intro": "Zur leitliniengerechten Therapie der aktinischen Keratose und des Morbus Bowen sowohl als einzelne Läsion als auch als Feldkanzerisierung",
+          "description": "",
+          "duration": "",
+          "price": "",
+          "icon": "⚕️",
+          "image": null,
+          "active": true,
+          "order": 10
         }
       ]
     },
