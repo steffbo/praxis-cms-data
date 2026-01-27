@@ -1,8 +1,8 @@
 {
   "month": "2026-01",
   "totals": {
-    "pageviews": 131,
-    "visitors": 25,
+    "pageviews": 139,
+    "visitors": 29,
     "sessions": 0
   },
   "days": {
@@ -220,24 +220,49 @@
       "referrers": {}
     },
     "2026-01-27": {
-      "pageviews": 3,
-      "visitors": 1,
+      "pageviews": 11,
+      "visitors": 5,
       "sessions": 0,
       "visitorHashes": [
-        "34870c6bee73"
+        "34870c6bee73",
+        "d2d68f72ae64",
+        "eebac6945e64",
+        "8951190e4805",
+        "7d3cd07dacbc"
       ],
       "pages": {
-        "/": 3
+        "/": 10,
+        "/#team": 1
       },
-      "events": {},
+      "events": {
+        "doctolib-click": {
+          "total": 3,
+          "properties": {
+            "doctor": {
+              "Dr. med. Elzbieta M. Czekajlo": 3
+            },
+            "location": {
+              "team-card": 3
+            }
+          }
+        }
+      },
       "devices": {
-        "laptop": 1
+        "laptop": 1,
+        "mobile": 2,
+        "desktop": 2
       },
       "browsers": {
-        "firefox": 1
+        "firefox": 1,
+        "safari": 1,
+        "chrome": 2,
+        "edge": 1
       },
       "os": {
-        "Mac OS": 1
+        "Mac OS": 2,
+        "Linux": 1,
+        "Windows": 1,
+        "Android": 1
       },
       "referrers": {}
     }
