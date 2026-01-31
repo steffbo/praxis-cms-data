@@ -40,7 +40,7 @@
       "id": "gallery-1",
       "src": "/images/gallery/wartezimmer.webp",
       "alt": "Heller und einladender Wartebereich",
-      "active": false,
+      "active": true,
       "order": 1
     },
     {
