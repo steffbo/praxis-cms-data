@@ -198,18 +198,6 @@
           "order": 6
         },
         {
-          "id": "service-1769520729457",
-          "title": "Photodynamische Therapie (PDT)",
-          "intro": "Therapie der aktinischen Keratose und des Morbus Bowen sowohl für einzelne Läsion als auch für die Feldkanzerisierung",
-          "description": "Die schmerzarme, ganzjährig durchführbare PDT mit simuliertem Tageslicht ist eine leitliniengerechte feldgerichtete Therapie zur Behandlung von Vorstufen des weißen Hautkrebs (aktinische Keratose, Morbus Bowen). Durch Vorbehandlung mit einem fraktionierten Laser verbessern wir die Wirksamkeit der Therapie.",
-          "duration": "",
-          "price": "",
-          "icon": "⚕️",
-          "image": null,
-          "active": true,
-          "order": 7
-        },
-        {
           "id": "dermato-onkologie",
           "title": "Dermato-onkologische Nachsorge",
           "intro": "Leitliniengerechte Nachsorge bei Hautkrebs und anderen dermato-onkologischen Erkrankungen..",
@@ -217,6 +205,18 @@
           "duration": "",
           "price": "",
           "icon": "🏥",
+          "image": null,
+          "active": true,
+          "order": 7
+        },
+        {
+          "id": "service-1769520729457",
+          "title": "Photodynamische Therapie (PDT)",
+          "intro": "Therapie der aktinischen Keratose und des Morbus Bowen sowohl für einzelne Läsion als auch für die Feldkanzerisierung",
+          "description": "Die schmerzarme, ganzjährig durchführbare PDT mit simuliertem Tageslicht ist eine leitliniengerechte feldgerichtete Therapie zur Behandlung von Vorstufen des weißen Hautkrebs (aktinische Keratose, Morbus Bowen). Durch Vorbehandlung mit einem fraktionierten Laser verbessern wir die Wirksamkeit der Therapie.",
+          "duration": "",
+          "price": "",
+          "icon": "⚕️",
           "image": null,
           "active": true,
           "order": 8
