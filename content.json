@@ -186,18 +186,6 @@
           "order": 5
         },
         {
-          "id": "ambulante-operationen",
-          "title": "Ambulante Operationen",
-          "intro": "Ambulante, auch ästhetische Operationen in unserer Praxis.",
-          "description": "Exzision von Hauttumoren und gutartigen störenden Veränderungen sowie bei entsprechender Indikation histopathologischer Untersuchung des Gewebes",
-          "duration": "",
-          "price": "",
-          "icon": "⚕️",
-          "image": null,
-          "active": true,
-          "order": 6
-        },
-        {
           "id": "dermato-onkologie",
           "title": "Dermato-onkologische Nachsorge",
           "intro": "Leitliniengerechte Nachsorge bei Hautkrebs und anderen dermato-onkologischen Erkrankungen..",
@@ -205,6 +193,18 @@
           "duration": "",
           "price": "",
           "icon": "🏥",
+          "image": null,
+          "active": true,
+          "order": 6
+        },
+        {
+          "id": "ambulante-operationen",
+          "title": "Ambulante Operationen",
+          "intro": "Ambulante, auch ästhetische Operationen in unserer Praxis.",
+          "description": "Exzision von Hauttumoren und gutartigen störenden Veränderungen sowie bei entsprechender Indikation histopathologischer Untersuchung des Gewebes",
+          "duration": "",
+          "price": "",
+          "icon": "⚕️",
           "image": null,
           "active": true,
           "order": 7
