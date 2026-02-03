@@ -293,8 +293,10 @@
           "title": "Fachärztin für Dermatologie",
           "specialization": "Allgemeine Dermatologie, Lasertherapie",
           "bio": "Dr. Czekajlo ist Fachärztin für Dermatologie und unterstützt unser Team mit ihrer Expertise.",
-          "cv": "",
-          "certifications": [],
+          "cv": "Ausbildung\n2016 -Weiterbildung Psychosomatische Grundversorgung - Ärztekammer Berlin\n\n2014 -Zusatzbezeichnung Medikamentöse Tumortherapie - Ärztekammer Berlin\n\n2014- Anerkennung als Facharzt für Dermatologie und Venerologie - Ärztekammer Berlin\n\n2006 -Approbation als Ärztin - Charité Universitätsmedizin Berlin\n\nWeitere Ausbildung und internationale Abschlüsse\n2012 - Promotion - Charité Universitätsmedizin Berlin\n\nErfahrung\n2009 - 2023\nPraxis - Berlin",
+          "certifications": [
+            "Zusatzbezeichnung Medikamentöse Tumortherapie - Ärztekammer Berlin"
+          ],
           "memberships": [],
           "languages": [
             "Deutsch",
