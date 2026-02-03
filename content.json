@@ -258,8 +258,16 @@
           "specialization": "Praxisinhaberin, Lasermedizin, Mykologie, Hygienebeauftragte Ärztin",
           "bio": "Dr. Hüttl leitet die Praxis in Berlin-Hermsdorf. Mit modernster Technik und einem breiten Spektrum an Behandlungsmöglichkeiten begleitet sie Patienten bei allen dermatologischen Anliegen. Die Praxis ist re-zertifiziert nach DIN EN ISO 9001.",
           "cv": "",
-          "certifications": [],
-          "memberships": [],
+          "certifications": [
+            "Qualifikation zur fachgebundenen genetischen Beratung",
+            "Hygienebeauftragte Ärztin"
+          ],
+          "memberships": [
+            "Pilzerkrankungen Mykologie mit PCR-Diagnostik zertifiziert nach Instand Ringversuch",
+            "D MyKG (Deutsche Mykologische Gesellschaft)",
+            "DDA (Deutsche Dermatologische Akademie)",
+            "DDL (Deutsche Dermatologische Lasergesellschaft)"
+          ],
           "languages": [
             "Deutsch",
             "Englisch"
