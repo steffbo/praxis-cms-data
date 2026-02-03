@@ -186,18 +186,6 @@
           "order": 5
         },
         {
-          "id": "akupunktur",
-          "title": "Akupunktur & Homöopathie",
-          "intro": "Ergänzende Behandlung durch Akupunktur und Homöopathie",
-          "description": "Denn: Es gibt Situationen im Leben, in denen diese zusätzliche Herangehensweise ein möglicher Weg ist. Gern besprechen wir mit Ihnen, inwieweit es bei Ihnen sinnvoll und angebracht ist.",
-          "duration": "",
-          "price": "",
-          "icon": "📍",
-          "image": null,
-          "active": true,
-          "order": 6
-        },
-        {
           "id": "kinderhautarzt",
           "title": "Kinder- und Jugenddermatologie",
           "intro": "Behandlung von Hauterkrankungen bei Kindern und Jugendlichen.",
@@ -207,7 +195,7 @@
           "icon": "👶",
           "image": null,
           "active": true,
-          "order": 7
+          "order": 6
         },
         {
           "id": "dermato-onkologie",
@@ -219,7 +207,7 @@
           "icon": "🏥",
           "image": null,
           "active": true,
-          "order": 8
+          "order": 7
         },
         {
           "id": "genetik",
@@ -231,7 +219,7 @@
           "icon": "🧬",
           "image": null,
           "active": true,
-          "order": 10
+          "order": 8
         },
         {
           "id": "service-1769520729457",
@@ -241,6 +229,18 @@
           "duration": "",
           "price": "",
           "icon": "⚕️",
+          "image": null,
+          "active": true,
+          "order": 9
+        },
+        {
+          "id": "akupunktur",
+          "title": "Akupunktur & Homöopathie",
+          "intro": "Ergänzende Behandlung durch Akupunktur und Homöopathie",
+          "description": "Denn: Es gibt Situationen im Leben, in denen diese zusätzliche Herangehensweise ein möglicher Weg ist. Gern besprechen wir mit Ihnen, inwieweit es bei Ihnen sinnvoll und angebracht ist.",
+          "duration": "",
+          "price": "",
+          "icon": "📍",
           "image": null,
           "active": true,
           "order": 10
