@@ -1,8 +1,8 @@
 {
   "month": "2026-02",
   "totals": {
-    "pageviews": 22,
-    "visitors": 9,
+    "pageviews": 23,
+    "visitors": 10,
     "sessions": 0
   },
   "days": {
@@ -132,6 +132,28 @@
       "sessions": 0,
       "visitorHashes": [
         "20fc4721c393"
+      ],
+      "pages": {
+        "/": 1
+      },
+      "events": {},
+      "devices": {
+        "laptop": 1
+      },
+      "browsers": {
+        "chrome": 1
+      },
+      "os": {
+        "Mac OS": 1
+      },
+      "referrers": {}
+    },
+    "2026-02-11": {
+      "pageviews": 1,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "54b72ec73c2d"
       ],
       "pages": {
         "/": 1
