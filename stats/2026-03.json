@@ -1,8 +1,8 @@
 {
   "month": "2026-03",
   "totals": {
-    "pageviews": 8,
-    "visitors": 3,
+    "pageviews": 26,
+    "visitors": 4,
     "sessions": 0
   },
   "days": {
@@ -67,6 +67,45 @@
       },
       "browsers": {
         "safari": 1
+      },
+      "os": {
+        "Mac OS": 1
+      },
+      "referrers": {}
+    },
+    "2026-03-15": {
+      "pageviews": 18,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "ba326e8906f7"
+      ],
+      "pages": {
+        "/": 8,
+        "/kontakt": 2,
+        "/#top": 2,
+        "/datenschutz": 1,
+        "/admin": 3,
+        "/impressum": 2
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 1,
+          "properties": {
+            "doctor": {
+              "general": 1
+            },
+            "location": {
+              "bottom-cta": 1
+            }
+          }
+        }
+      },
+      "devices": {
+        "laptop": 1
+      },
+      "browsers": {
+        "firefox": 1
       },
       "os": {
         "Mac OS": 1
