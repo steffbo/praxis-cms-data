@@ -1,8 +1,8 @@
 {
   "month": "2026-03",
   "totals": {
-    "pageviews": 31,
-    "visitors": 7,
+    "pageviews": 35,
+    "visitors": 8,
     "sessions": 0
   },
   "days": {
@@ -156,6 +156,29 @@
       },
       "os": {
         "Mac OS": 2
+      },
+      "referrers": {}
+    },
+    "2026-03-27": {
+      "pageviews": 4,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "4c0111a047f9"
+      ],
+      "pages": {
+        "/": 1,
+        "/#leistungen": 3
+      },
+      "events": {},
+      "devices": {
+        "mobile": 1
+      },
+      "browsers": {
+        "safari": 1
+      },
+      "os": {
+        "Mac OS": 1
       },
       "referrers": {}
     }
