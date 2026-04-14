@@ -1,0 +1,46 @@
+{
+  "month": "2026-04",
+  "totals": {
+    "pageviews": 3,
+    "visitors": 2,
+    "sessions": 0
+  },
+  "days": {
+    "2026-04-14": {
+      "pageviews": 3,
+      "visitors": 2,
+      "sessions": 0,
+      "visitorHashes": [
+        "1cfdc255789e",
+        "83102569372a"
+      ],
+      "pages": {
+        "/": 3
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 1,
+          "properties": {
+            "doctor": {
+              "general": 1
+            },
+            "location": {
+              "bottom-cta": 1
+            }
+          }
+        }
+      },
+      "devices": {
+        "mobile": 2
+      },
+      "browsers": {
+        "chrome": 1,
+        "firefox": 1
+      },
+      "os": {
+        "Android": 2
+      },
+      "referrers": {}
+    }
+  }
+}
