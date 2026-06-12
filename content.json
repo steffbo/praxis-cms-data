@@ -349,30 +349,6 @@
           "gender": "female",
           "active": true,
           "order": 3
-        },
-        {
-          "id": "team-1768255020796",
-          "name": "Stefan",
-          "title": "irgendwas mit Software",
-          "specialization": "Web",
-          "bio": "Ich mach hier nur die Website",
-          "cv": "",
-          "certifications": [],
-          "memberships": [],
-          "languages": [
-            "🇩🇪 🇬🇧"
-          ],
-          "images": [
-            {
-              "id": "img-1768255093883",
-              "src": "/images/team/placeholder.jpg",
-              "active": true
-            }
-          ],
-          "doctolib": "",
-          "gender": "female",
-          "active": true,
-          "order": 4
         }
       ]
     },
