@@ -17,12 +17,12 @@
       {
         "id": "logo-1768571881597",
         "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/android-chrome-192x192-1768571881716.png",
-        "active": true
+        "active": false
       },
       {
         "id": "logo-1768687152600",
         "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/og-meta-1768687152967.png",
-        "active": false
+        "active": true
       }
     ],
     "seo": {
@@ -32,8 +32,10 @@
           "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/og-meta-1768684588432.jpg",
           "active": true
         }
-      ]
-    }
+      ],
+      "description": "Hautärztin Dr. med. Beate Hüttl - Ihre Dermatologen in Berlin-Hermsdorf. Hautkrebsvorsorge mit KI, Lasertherapie, Allergologie, Mykologie. Private Praxis."
+    },
+    "domain": "https://dr-huettl.de"
   },
   "gallery": [
     {
@@ -67,7 +69,7 @@
     {
       "id": "gallery-4",
       "src": "/images/gallery/flur.webp",
-      "alt": "Praxisflur mit warmer AtmosphÃ¤re",
+      "alt": "Praxisflur mit warmer Atmosphäre",
       "active": true,
       "order": 5
     }
@@ -105,7 +107,8 @@
         "cta": "Online-Termin buchen"
       },
       "praxis": {
-        "title": "Unsere Praxis"
+        "title": "Unsere Praxis",
+        "intro": "Moderne Ausstattung & freundliches Ambiente"
       },
       "notice": {
         "title": "Wichtiger Hinweis",
@@ -129,85 +132,113 @@
           "id": "hautkrebsvorsorge",
           "title": "Hautkrebsvorsorge",
           "intro": "Hautkrebsvorsorge inkl. Computervideo-Dokumentation mit KI/AI Scoring (Deep Learning Model).",
-          "description": "Hautkrebsvorsorge inkl. Computervideo-Dokumentation mit KI/AI Scoring (Deep Learning Model).",
+          "description": "Bei der Hautkrebsvorsorge erfolgt eine Ganzkörperuntersuchung der Haut sowie der angrenzenden Schleimhäute. Ergänzend können Fotodokumentation auffälliger Läsionen und computergestützte Verlaufsbeobachtung helfen, Veränderungen besser zu vergleichen. Ziel ist eine risikoadaptierte Beratung sowie frühzeitige Abklärung verdächtiger Hautveränderungen.\nBitte kommen Sie zu den Hautkrebsvorsorgeterminen ungeschminkt und ohne Nagellack, um eine vollständige Untersuchung zu gewährleisten.",
           "duration": "",
           "price": "",
           "icon": "🔬",
           "image": null,
           "active": true,
-          "order": 1
+          "order": 1,
+          "slug": "hautkrebsvorsorge",
+          "iconSvg": "/images/icons/services/hautkrebsvorsorge.png",
+          "seoTitle": "Hautkrebsvorsorge | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Hautkrebsvorsorge in Berlin-Hermsdorf mit moderner Auflichtmikroskopie, Video-Dokumentation und persönlicher dermatologischer Beratung."
         },
         {
           "id": "mykologie",
           "title": "Mykologie / Pilzerkrankungen",
-          "intro": "PCR-Diagnostik, Lasertherapie bei Nagelpilz",
-          "description": "Die PCR -Diagnostik liefert Ihnen schnelle, höchst zuverlässige Ergebnisse auf modernstem Niveau. Wir sind diesbezüglich nach Instand Ringversuch zertifiziert. \nFalls sich aus diesen Befunden ein Handlungsbedarf ergibt, können wir Ihnen zum Beispiel mit der Lasertherapie bei Nagelpilz sehr gute Behandlungsoptionen anbieten.",
+          "intro": "Pilzerkrankungen mit PCR-Diagnostik, zertifiziert nach Instand Ringversuch.",
+          "description": "Pilzerkrankungen können Haut, Nägel und Schleimhäute betreffen und sehen nicht immer eindeutig aus. In der Praxis wird geklärt, ob tatsächlich eine Pilzinfektion vorliegt und welche Behandlung sinnvoll ist. Je nach Befund kommen moderne Laborverfahren, PCR-Diagnostik und eine gezielte Therapieplanung zum Einsatz.",
           "duration": "",
           "price": "",
           "icon": "🔎",
           "image": null,
           "active": true,
-          "order": 2
+          "order": 2,
+          "slug": "mykologie",
+          "iconSvg": "/images/icons/services/mykologie.png",
+          "seoTitle": "Mykologie / Pilzerkrankungen | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Diagnostik und Behandlung von Pilzerkrankungen der Haut und Nägel in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf."
         },
         {
           "id": "lasertherapie",
           "title": "Dermatologische Lasertherapie",
-          "intro": "Behandlung von Altersflecken, Gefäßerweiterungen, Blutschwämmchen, störenden Hautmalen und Haarentfernung.",
-          "description": "Mit fünf verschiedenen Lasersystemen behandeln wir Altersflecken, Couperose, Gefäßerweiterungen, Hämangiomen, störenden Hautmale und bieten eine Haarentfernung an. \n\nZertifiziert nach DDA (Deutsche Dermatologische Akademie). Mitglied der DDL (Deutsche Dermatologische Lasergesellschaft e.V.).",
+          "intro": "Zertifiziert nach DDA (Deutsche Dermatologische Akademie). Mitglied der DDL.",
+          "description": "Dermatologische Lasertherapie eignet sich für ausgewählte Hautveränderungen, Gefäßveränderungen, Pigmentveränderungen und weitere klar abgegrenzte Behandlungsziele. Vor jeder Behandlung wird geprüft, ob die Veränderung dermatologisch unbedenklich ist und welches Verfahren passt. Die Beratung umfasst Nutzen, Grenzen, mögliche Nebenwirkungen und die realistische Nachsorge.",
           "duration": "",
           "price": "",
           "icon": "💫",
           "image": null,
           "active": true,
-          "order": 3
+          "order": 3,
+          "slug": "lasertherapie",
+          "iconSvg": "/images/icons/services/lasertherapie.png",
+          "seoTitle": "Dermatologische Lasertherapie | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Dermatologische Lasertherapie in Berlin-Hermsdorf für ausgewählte Hautveränderungen, Gefäße, Altersflecken und Haarentfernung."
         },
         {
           "id": "allergologie",
           "title": "Allergologie",
           "intro": "Allergiediagnostik u.a. mit Macro Array Diagnostics und IgE, zertifiziert nach ISO 17043.",
-          "description": "Allergiediagnostik u.a. mit Macro Array Diagnostics und IgE, zertifiziert nach ISO 17043. Darüber hinaus bieten wir in unserer Praxis die Epikutan-Testung zur Abklärung von Kontakt Allergien an. Auch in Hinblick auf die Prick Testung können wir Sie mit einem umfangreichen Spektrum ein Testmöglichkeiten unterstützen. Falls Sie den Wunsch haben, dass wir bei Ihnen eine Nahrungsmittelallergie  abkären, helfen wir Ihnen gern bei der umfassenden diagnostischen Suche, sowohl mit zahlreichen Blut-Bestimmungen zu relevanten Nahrungsmitteln, als auch ergänzt durch die Bestimmung der Histaminintoleranz und Laktoseintoleranz .",
+          "description": "Allergische Beschwerden an Haut und Schleimhäuten können viele Auslöser haben. Die allergologische Diagnostik hilft, relevante Ursachen einzugrenzen und Beschwerden besser zu verstehen. Nach der Untersuchung werden die Ergebnisse besprochen und konkrete Empfehlungen für Alltag, Hautpflege und weitere Behandlung abgeleitet.",
           "duration": "",
           "price": "",
           "icon": "🌸",
           "image": null,
           "active": true,
-          "order": 4
+          "order": 4,
+          "slug": "allergologie",
+          "iconSvg": "/images/icons/services/allergologie.png",
+          "seoTitle": "Allergologie | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Allergologische Diagnostik und Beratung in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf."
         },
         {
           "id": "kinderhautarzt",
           "title": "Kinder- und Jugenddermatologie",
           "intro": "Behandlung von Hauterkrankungen bei Kindern und Jugendlichen.",
-          "description": "Kindliche Hauterkrankungen bedürfen einer besonderen Sensibilität, da es gilt, sowohl den Kindern als auch den Eltern zu helfen und sie zu begleiten. Durch die Ausbildungszeit in einer Kinderklinik und seither langjähriger Tätigkeit in diesem Bereich stehen wir Ihnen gern mit Rat und Tat zur Verfügung.\nUnd wenn dann die Kinder zu Jugendlichen werden und Themen wie Akne mehr im Vordergrund stehen, bieten wir neben ausgefeilter individueller Lokal-Therapie den Jugendlichen je nach Situation und falls erforderlich auch entsprechende systemische Tablettenbehandlungen an, selbstverständlich mit begleitenden Laborkontrolle. Dies dann immer in Absprache mit den Eltern.",
+          "description": "Hautveränderungen bei Kindern und Jugendlichen brauchen eine ruhige Untersuchung und eine verständliche Erklärung für Eltern und junge Patientinnen und Patienten. Häufig geht es um Ekzeme, Muttermale, Warzen, Akne oder unklare Ausschläge. Die Behandlung wird altersgerecht geplant und auf Alltag, Pflege und Verträglichkeit abgestimmt.",
           "duration": "",
           "price": "",
           "icon": "👶",
           "image": null,
           "active": true,
-          "order": 5
+          "order": 5,
+          "slug": "kinderhautarzt",
+          "iconSvg": "/images/icons/services/kinderhautarzt.png",
+          "seoTitle": "Kinder- und Jugenddermatologie | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Kinder- und Jugenddermatologie in Berlin-Hermsdorf mit ruhiger Beratung für junge Patientinnen und Patienten."
         },
         {
           "id": "dermato-onkologie",
           "title": "Dermato-onkologische Nachsorge",
-          "intro": "Leitliniengerechte Nachsorge bei Hautkrebs und anderen dermato-onkologischen Erkrankungen..",
-          "description": "Diese Nachsorge-Untersuchungen kombinieren wir mit den erforderlichen Blut-Verlaufskontrollen sowie, wenn sinnvoll, mit der Computervideo-Dokumentation mit KI/AI Scoring (Deep Learning Model). Sollten bei Ihnen auch radiologische Untersuchungen für Ihr individuelles Nachsorgeprogramm erforderlich sein, so planen wir auch diesbezüglich mit Ihnen die richtige Abfolge.",
+          "intro": "Nachsorge bei Hautkrebs und anderen dermato-onkologischen Erkrankungen.",
+          "description": "Nach einer Hautkrebserkrankung sind regelmäßige dermatologische Kontrollen wichtig. In der Nachsorge werden Narben, Hautareale, Lymphknotenregionen und neue Hautveränderungen aufmerksam beurteilt. Die Termine dienen dazu, Veränderungen früh zu erkennen und die nächsten Schritte nachvollziehbar zu planen.",
           "duration": "",
           "price": "",
           "icon": "🏥",
           "image": null,
           "active": true,
-          "order": 6
+          "order": 6,
+          "slug": "dermato-onkologie",
+          "iconSvg": "/images/icons/services/dermato-onkologie.png",
+          "seoTitle": "Dermato-onkologische Nachsorge | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Dermato-onkologische Nachsorge nach Hautkrebs und anderen Hauttumoren in der Hautarztpraxis Dr. Hüttl."
         },
         {
           "id": "ambulante-operationen",
           "title": "Ambulante Operationen",
           "intro": "Ambulante, auch ästhetische Operationen in unserer Praxis.",
-          "description": "Exzision von Hauttumoren und gutartigen störenden Veränderungen sowie bei entsprechender Indikation histopathologischer Untersuchung des Gewebes",
+          "description": "Kleinere dermatologische Eingriffe können in geeigneten Fällen ambulant in der Praxis durchgeführt werden. Dazu gehören zum Beispiel die Entfernung oder Abklärung störender und auffälliger Hautveränderungen. Vorab werden Befund, Vorgehen, Betäubung, Wundversorgung und Nachkontrolle verständlich besprochen.",
           "duration": "",
           "price": "",
           "icon": "⚕️",
           "image": null,
           "active": true,
-          "order": 7
+          "order": 7,
+          "slug": "ambulante-operationen",
+          "iconSvg": "/images/icons/services/ambulante-operationen.png",
+          "seoTitle": "Ambulante Operationen | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Ambulante dermatologische und ästhetische Operationen in der Privatpraxis Dr. Hüttl in Berlin-Hermsdorf."
         },
         {
           "id": "service-1769520729457",
@@ -219,31 +250,43 @@
           "icon": "⚕️",
           "image": null,
           "active": true,
-          "order": 8
+          "order": 8,
+          "slug": "photodynamische-therapie",
+          "iconSvg": "/images/icons/services/photodynamische-therapie.png",
+          "seoTitle": "Photodynamische Therapie (PDT) | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Photodynamische Therapie zur Behandlung aktinischer Keratosen und Morbus Bowen in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf."
         },
         {
           "id": "genetik",
           "title": "Genetische Beratung",
           "intro": "Qualifikation zur fachgebundenen genetischen Beratung.",
-          "description": "Bei manchen dermatologischen Erkrankungen liegt ein genetischer Hintergrund vor. Mitunter ist es daher sinnvoll, entsprechende Blutuntersuchungen durchzuführen. Auf Grund der vorhandenen Qualifikation zur fachgebundenen genetischen Beratung sind wir berechtigt, diese durchzuführen.",
+          "description": "Bei bestimmten Hauterkrankungen, Tumorerkrankungen oder familiären Auffälligkeiten kann eine fachgebundene genetische Beratung sinnvoll sein. In der Beratung wird besprochen, ob eine genetische Fragestellung besteht, welche Bedeutung sie haben kann und welche weiteren Schritte möglich sind. Dabei stehen verständliche Einordnung und informierte Entscheidung im Vordergrund.",
           "duration": "",
           "price": "",
           "icon": "🧬",
           "image": null,
           "active": true,
-          "order": 9
+          "order": 9,
+          "slug": "genetik",
+          "iconSvg": "/images/icons/services/genetik.png",
+          "seoTitle": "Genetische Beratung | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Fachgebundene genetische Beratung in der Dermatologie in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf."
         },
         {
           "id": "akupunktur",
           "title": "Akupunktur & Homöopathie",
-          "intro": "Ergänzende Behandlung durch Akupunktur und Homöopathie",
-          "description": "Denn: Es gibt Situationen im Leben, in denen diese zusätzliche Herangehensweise ein möglicher Weg ist. Gern besprechen wir mit Ihnen, inwieweit es bei Ihnen sinnvoll und angebracht ist.",
+          "intro": "Ergänzende Behandlung durch Akupunktur und Homöopathie.",
+          "description": "Akupunktur und homöopathische Ansätze können in ausgewählten Situationen ergänzend zur dermatologischen Behandlung eingesetzt werden. Im Termin wird geklärt, ob ein ergänzendes Verfahren zu Ihrem Hautbild und Ihren Beschwerden passt. Die Behandlung ersetzt keine notwendige dermatologische Diagnostik, kann aber Teil eines individuellen Gesamtkonzepts sein.",
           "duration": "",
           "price": "",
           "icon": "📍",
           "image": null,
           "active": true,
-          "order": 10
+          "order": 10,
+          "slug": "akupunktur",
+          "iconSvg": "/images/icons/services/akupunktur.png",
+          "seoTitle": "Akupunktur & Homöopathie | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Ergänzende dermatologische Behandlung mit Akupunktur und Homöopathie in Berlin-Hermsdorf."
         }
       ]
     },
