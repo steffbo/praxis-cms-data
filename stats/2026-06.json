@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
   "totals": {
-    "pageviews": 13,
-    "visitors": 5,
+    "pageviews": 31,
+    "visitors": 8,
     "sessions": 0
   },
   "days": {
@@ -85,6 +85,41 @@
       },
       "os": {
         "Mac OS": 1
+      },
+      "referrers": {}
+    },
+    "2026-06-15": {
+      "pageviews": 18,
+      "visitors": 3,
+      "sessions": 0,
+      "visitorHashes": [
+        "795f04b996d8",
+        "22e8e216c6a0",
+        "7fed099a5e3a"
+      ],
+      "pages": {
+        "/": 5,
+        "/leistungen/hautkrebsvorsorge": 2,
+        "/leistungen/mykologie": 2,
+        "/#leistungen": 1,
+        "/admin": 2,
+        "/leistungen/photodynamische-therapie": 1,
+        "/kontakt": 3,
+        "/datenschutz#kartendienst": 1,
+        "/leistungen/allergologie": 1
+      },
+      "events": {},
+      "devices": {
+        "laptop": 1,
+        "mobile": 2
+      },
+      "browsers": {
+        "firefox": 2,
+        "chrome": 1
+      },
+      "os": {
+        "Mac OS": 1,
+        "Android": 2
       },
       "referrers": {}
     }
