@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
   "totals": {
-    "pageviews": 35,
-    "visitors": 9,
+    "pageviews": 36,
+    "visitors": 10,
     "sessions": 0
   },
   "days": {
@@ -135,6 +135,28 @@
         "/leistungen/hautkrebsvorsorge": 1,
         "/leistungen/mykologie": 1,
         "/leistungen/photodynamische-therapie": 1
+      },
+      "events": {},
+      "devices": {
+        "mobile": 1
+      },
+      "browsers": {
+        "firefox": 1
+      },
+      "os": {
+        "Android": 1
+      },
+      "referrers": {}
+    },
+    "2026-06-18": {
+      "pageviews": 1,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "578d0ee14f26"
+      ],
+      "pages": {
+        "/": 1
       },
       "events": {},
       "devices": {
