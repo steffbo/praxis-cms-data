@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
   "totals": {
-    "pageviews": 36,
-    "visitors": 10,
+    "pageviews": 43,
+    "visitors": 15,
     "sessions": 0
   },
   "days": {
@@ -167,6 +167,38 @@
       },
       "os": {
         "Android": 1
+      },
+      "referrers": {}
+    },
+    "2026-06-19": {
+      "pageviews": 7,
+      "visitors": 5,
+      "sessions": 0,
+      "visitorHashes": [
+        "1ddf2466cbb5",
+        "2b78f9f59413",
+        "c4af68af93f3",
+        "f932918adcbd",
+        "72d67254143f"
+      ],
+      "pages": {
+        "/": 3,
+        "/team": 1,
+        "/kontakt": 1,
+        "/leistungen/hautkrebsvorsorge": 1,
+        "/leistungen": 1
+      },
+      "events": {},
+      "devices": {
+        "laptop": 4,
+        "desktop": 1
+      },
+      "browsers": {
+        "chrome": 5
+      },
+      "os": {
+        "Mac OS": 4,
+        "Windows": 1
       },
       "referrers": {}
     }
