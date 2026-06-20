@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
   "totals": {
-    "pageviews": 43,
-    "visitors": 15,
+    "pageviews": 46,
+    "visitors": 16,
     "sessions": 0
   },
   "days": {
@@ -198,6 +198,30 @@
       },
       "os": {
         "Mac OS": 4,
+        "Windows": 1
+      },
+      "referrers": {}
+    },
+    "2026-06-20": {
+      "pageviews": 3,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "6b3702f11416"
+      ],
+      "pages": {
+        "/leistungen/photodynamische-therapie": 1,
+        "/": 1,
+        "/kontakt": 1
+      },
+      "events": {},
+      "devices": {
+        "desktop": 1
+      },
+      "browsers": {
+        "chrome": 1
+      },
+      "os": {
         "Windows": 1
       },
       "referrers": {}
