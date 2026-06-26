@@ -1,8 +1,8 @@
 {
   "month": "2026-06",
   "totals": {
-    "pageviews": 53,
-    "visitors": 23,
+    "pageviews": 64,
+    "visitors": 26,
     "sessions": 0
   },
   "days": {
@@ -279,6 +279,50 @@
       "os": {
         "Windows": 1,
         "Mac OS": 1
+      },
+      "referrers": {}
+    },
+    "2026-06-26": {
+      "pageviews": 11,
+      "visitors": 3,
+      "sessions": 0,
+      "visitorHashes": [
+        "c7a48a9ae631",
+        "bd82785ce117",
+        "10980613667d"
+      ],
+      "pages": {
+        "/": 4,
+        "/leistungen/genetik": 1,
+        "/leistungen/hautkrebsvorsorge": 1,
+        "/leistungen/mykologie": 1,
+        "/leistungen/lasertherapie": 1,
+        "/leistungen/allergologie": 1,
+        "/#leistungen": 2
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 1,
+          "properties": {
+            "doctor": {
+              "general": 1
+            },
+            "location": {
+              "hero": 1
+            }
+          }
+        }
+      },
+      "devices": {
+        "mobile": 3
+      },
+      "browsers": {
+        "chrome": 1,
+        "safari": 2
+      },
+      "os": {
+        "Android": 1,
+        "iOS": 2
       },
       "referrers": {}
     }
