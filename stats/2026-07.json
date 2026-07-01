@@ -1,0 +1,32 @@
+{
+  "month": "2026-07",
+  "totals": {
+    "pageviews": 1,
+    "visitors": 1,
+    "sessions": 0
+  },
+  "days": {
+    "2026-07-01": {
+      "pageviews": 1,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "684980b65267"
+      ],
+      "pages": {
+        "/": 1
+      },
+      "events": {},
+      "devices": {
+        "desktop": 1
+      },
+      "browsers": {
+        "chrome": 1
+      },
+      "os": {
+        "Windows": 1
+      },
+      "referrers": {}
+    }
+  }
+}
