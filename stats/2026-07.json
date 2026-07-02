@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 5,
-    "visitors": 3,
+    "pageviews": 19,
+    "visitors": 4,
     "sessions": 0
   },
   "days": {
@@ -29,26 +29,29 @@
       "referrers": {}
     },
     "2026-07-02": {
-      "pageviews": 4,
-      "visitors": 2,
+      "pageviews": 18,
+      "visitors": 3,
       "sessions": 0,
       "visitorHashes": [
         "df180230b8e9",
-        "90a170473c23"
+        "90a170473c23",
+        "41758b9eafa7"
       ],
       "pages": {
-        "/": 4
+        "/": 14,
+        "/kontakt": 3,
+        "/leistungen/mykologie": 1
       },
       "events": {},
       "devices": {
-        "laptop": 2
+        "laptop": 3
       },
       "browsers": {
         "firefox": 1,
-        "chrome": 1
+        "chrome": 2
       },
       "os": {
-        "Mac OS": 2
+        "Mac OS": 3
       },
       "referrers": {}
     }
