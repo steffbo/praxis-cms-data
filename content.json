@@ -84,7 +84,7 @@
       "id": "gallery-2",
       "src": "/images/gallery/behandlungsraum.webp",
       "alt": "Moderner Behandlungsraum",
-      "active": true,
+      "active": false,
       "order": 7
     },
     {
