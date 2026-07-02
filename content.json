@@ -39,39 +39,74 @@
   },
   "gallery": [
     {
-      "id": "gallery-1",
-      "src": "/images/gallery/wartezimmer.webp",
-      "alt": "Heller und einladender Wartebereich",
+      "id": "gallery-praxis-fotos-3",
+      "src": "/images/gallery/praxis-fotos-3.webp",
+      "alt": "Wartebereich der Praxis mit Blick ins Grüne",
       "active": true,
       "order": 1
     },
     {
-      "id": "gallery-2",
-      "src": "/images/gallery/behandlungsraum.webp",
-      "alt": "Moderner Behandlungsraum",
+      "id": "gallery-praxis-fotos-5",
+      "src": "/images/gallery/praxis-fotos-5.webp",
+      "alt": "Moderner Behandlungsraum der Hautarztpraxis",
       "active": true,
       "order": 2
+    },
+    {
+      "id": "gallery-praxis-fotos-2",
+      "src": "/images/gallery/praxis-fotos-2.webp",
+      "alt": "Empfangsbereich der Hautarztpraxis",
+      "active": true,
+      "order": 3
+    },
+    {
+      "id": "gallery-praxis-fotos-4",
+      "src": "/images/gallery/praxis-fotos-4.webp",
+      "alt": "Laser-Behandlungsraum der Praxis",
+      "active": true,
+      "order": 4
     },
     {
       "id": "gallery-3",
       "src": "/images/gallery/laserraum.webp",
       "alt": "Spezialisierter Laser-Behandlungsraum",
-      "active": true,
-      "order": 3
+      "active": false,
+      "order": 5
+    },
+    {
+      "id": "gallery-1",
+      "src": "/images/gallery/wartezimmer.webp",
+      "alt": "Heller und einladender Wartebereich",
+      "active": false,
+      "order": 6
+    },
+    {
+      "id": "gallery-2",
+      "src": "/images/gallery/behandlungsraum.webp",
+      "alt": "Moderner Behandlungsraum",
+      "active": false,
+      "order": 7
     },
     {
       "id": "gallery-5",
       "src": "/images/gallery/zertifizierungen.webp",
       "alt": "Unsere Zertifizierungen und Qualifikationen",
-      "active": true,
-      "order": 4
+      "active": false,
+      "order": 8
     },
     {
       "id": "gallery-4",
       "src": "/images/gallery/flur.webp",
       "alt": "Praxisflur mit warmer Atmosphäre",
-      "active": true,
-      "order": 5
+      "active": false,
+      "order": 9
+    },
+    {
+      "id": "gallery-praxis-fotos-1",
+      "src": "/images/gallery/praxis-fotos-1.webp",
+      "alt": "Außenansicht der Hautarztpraxis Dr. Hüttl",
+      "active": false,
+      "order": 10
     }
   ],
   "hours": {
@@ -104,7 +139,8 @@
         "title": "Willkommen in Ihrer Hautarztpraxis",
         "subtitle": "Kompetente dermatologische Versorgung in Berlin-Hermsdorf",
         "intro": "Wir sind gern für Sie da, um Ihnen in all Ihren Belangen rund um die Haut mit allen uns zur Verfügung stehenden Mitteln und Möglichkeiten zu helfen. Mit modernster Technik im Bereich von Diagnostik und Therapie, einem breiten Spektrum an Behandlungsmöglichkeiten inklusive diverser Laser und viel Erfahrung werden wir Sie in freundlicher und professioneller Atmosphäre  bestmöglich bei Ihren dermatologischen Anliegen begleiten und unterstützen.",
-        "cta": "Online-Termin buchen"
+        "cta": "Online-Termin buchen",
+        "image": "/images/gallery/praxis-fotos-2.webp"
       },
       "praxis": {
         "title": "Unsere Praxis",
@@ -397,6 +433,7 @@
     "kontakt": {
       "title": "Kontakt",
       "intro": "Wir freuen uns auf Ihren Besuch. Vereinbaren Sie gerne einen Termin online über Doctolib. Sollte unsere Antwort auf Ihre E-Mail Anfrage aus praxisorganisatorischen Gründen nicht kurzfristig erfolgen können, möchten wir Sie bitten, uns erneut - dann aber bitte per Telefon oder Fax - zu kontaktieren.",
+      "image": "/images/gallery/praxis-fotos-1.webp",
       "directions": {
         "public": "S-Bahn: Linie S1, Haltestelle S Hermsdorf • Bus: Linie 125, Haltestelle Mühlenfeldstr.",
         "parking": "Gute Parkmöglichkeiten vorhanden",
