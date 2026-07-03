@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 19,
-    "visitors": 4,
+    "pageviews": 25,
+    "visitors": 5,
     "sessions": 0
   },
   "days": {
@@ -52,6 +52,32 @@
       },
       "os": {
         "Mac OS": 3
+      },
+      "referrers": {}
+    },
+    "2026-07-03": {
+      "pageviews": 6,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "400839ea31bf"
+      ],
+      "pages": {
+        "/": 1,
+        "/leistungen/lasertherapie": 2,
+        "/leistungen/allergologie": 1,
+        "/leistungen/hautkrebsvorsorge": 1,
+        "/kontakt": 1
+      },
+      "events": {},
+      "devices": {
+        "laptop": 1
+      },
+      "browsers": {
+        "firefox": 1
+      },
+      "os": {
+        "Mac OS": 1
       },
       "referrers": {}
     }
