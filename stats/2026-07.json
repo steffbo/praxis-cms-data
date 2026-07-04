@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 39,
-    "visitors": 6,
+    "pageviews": 49,
+    "visitors": 7,
     "sessions": 0
   },
   "days": {
@@ -82,6 +82,41 @@
       },
       "os": {
         "Mac OS": 1,
+        "iOS": 1
+      },
+      "referrers": {}
+    },
+    "2026-07-04": {
+      "pageviews": 10,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "faad69ec95fe"
+      ],
+      "pages": {
+        "/": 9,
+        "/kontakt": 1
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 1,
+          "properties": {
+            "doctor": {
+              "general": 1
+            },
+            "location": {
+              "hero": 1
+            }
+          }
+        }
+      },
+      "devices": {
+        "mobile": 1
+      },
+      "browsers": {
+        "safari": 1
+      },
+      "os": {
         "iOS": 1
       },
       "referrers": {}
