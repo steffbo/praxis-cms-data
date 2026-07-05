@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 49,
-    "visitors": 7,
+    "pageviews": 53,
+    "visitors": 8,
     "sessions": 0
   },
   "days": {
@@ -110,6 +110,29 @@
           }
         }
       },
+      "devices": {
+        "mobile": 1
+      },
+      "browsers": {
+        "safari": 1
+      },
+      "os": {
+        "iOS": 1
+      },
+      "referrers": {}
+    },
+    "2026-07-05": {
+      "pageviews": 4,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "0b8c6bcca493"
+      ],
+      "pages": {
+        "/": 3,
+        "/leistungen/hautkrebsvorsorge": 1
+      },
+      "events": {},
       "devices": {
         "mobile": 1
       },
