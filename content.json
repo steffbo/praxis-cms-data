@@ -98,7 +98,7 @@
       "id": "gallery-4",
       "src": "/images/gallery/flur.webp",
       "alt": "Praxisflur mit warmer Atmosphäre",
-      "active": false,
+      "active": true,
       "order": 9
     },
     {
