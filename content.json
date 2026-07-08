@@ -245,6 +245,22 @@
           "order": 5
         },
         {
+          "id": "service-1769520729457",
+          "title": "FRAXEL-Photodynamische Therapie (PDT)",
+          "slug": "photodynamische-therapie",
+          "intro": "Therapie der aktinischen Keratose und des Morbus Bowen sowohl für einzelne Läsion als auch für die Feldkanzerisierung",
+          "description": "Die schmerzarme, ganzjährig durchführbare PDT mit simuliertem Tageslicht ist eine leitliniengerechte feldgerichtete Therapie zur Behandlung von Vorstufen des weißen Hautkrebs (aktinische Keratose, Morbus Bowen). Durch Vorbehandlung mit einem fraktionierten Laser verbessern wir die Wirksamkeit der Therapie.",
+          "duration": "",
+          "price": "",
+          "seoTitle": "Photodynamische Therapie (PDT) | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Photodynamische Therapie zur Behandlung aktinischer Keratosen und Morbus Bowen in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf.",
+          "iconSvg": "/images/icons/services/photodynamische-therapie.png",
+          "icon": "⚕️",
+          "image": null,
+          "active": true,
+          "order": 6
+        },
+        {
           "id": "mykologie",
           "title": "Mykologie / Pilzerkrankungen",
           "slug": "mykologie",
@@ -258,7 +274,7 @@
           "icon": "🔎",
           "image": null,
           "active": true,
-          "order": 6
+          "order": 7
         },
         {
           "id": "kinderhautarzt",
@@ -272,22 +288,6 @@
           "seoDescription": "Kinder- und Jugenddermatologie in Berlin-Hermsdorf mit ruhiger Beratung für junge Patientinnen und Patienten.",
           "iconSvg": "/images/icons/services/kinderhautarzt.png",
           "icon": "👶",
-          "image": null,
-          "active": true,
-          "order": 7
-        },
-        {
-          "id": "service-1769520729457",
-          "title": "FRAXEL-Photodynamische Therapie (PDT)",
-          "slug": "photodynamische-therapie",
-          "intro": "Therapie der aktinischen Keratose und des Morbus Bowen sowohl für einzelne Läsion als auch für die Feldkanzerisierung",
-          "description": "Die schmerzarme, ganzjährig durchführbare PDT mit simuliertem Tageslicht ist eine leitliniengerechte feldgerichtete Therapie zur Behandlung von Vorstufen des weißen Hautkrebs (aktinische Keratose, Morbus Bowen). Durch Vorbehandlung mit einem fraktionierten Laser verbessern wir die Wirksamkeit der Therapie.",
-          "duration": "",
-          "price": "",
-          "seoTitle": "Photodynamische Therapie (PDT) | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
-          "seoDescription": "Photodynamische Therapie zur Behandlung aktinischer Keratosen und Morbus Bowen in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf.",
-          "iconSvg": "/images/icons/services/photodynamische-therapie.png",
-          "icon": "⚕️",
           "image": null,
           "active": true,
           "order": 8
