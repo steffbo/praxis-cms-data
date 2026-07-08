@@ -213,22 +213,6 @@
           "order": 3
         },
         {
-          "id": "mykologie",
-          "title": "Mykologie / Pilzerkrankungen",
-          "slug": "mykologie",
-          "intro": "Pilzerkrankungen mit PCR-Diagnostik, zertifiziert nach Instand Ringversuch.",
-          "description": "Pilzerkrankungen können Haut, Nägel und Schleimhäute betreffen und sehen nicht immer eindeutig aus. In unserer Praxis wird geklärt, ob tatsächlich eine Pilzinfektion vorliegt und welche Behandlung sinnvoll ist. Je nach Befund kommen moderne Laborverfahren, PCR-Diagnostik und eine gezielte Therapieplanung zum Einsatz.",
-          "duration": "",
-          "price": "",
-          "seoTitle": "Mykologie / Pilzerkrankungen | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
-          "seoDescription": "Diagnostik und Behandlung von Pilzerkrankungen der Haut und Nägel in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf.",
-          "iconSvg": "/images/icons/services/mykologie.png",
-          "icon": "🔎",
-          "image": null,
-          "active": true,
-          "order": 4
-        },
-        {
           "id": "allergologie",
           "title": "Allergologie",
           "slug": "allergologie",
@@ -240,6 +224,22 @@
           "seoDescription": "Allergologische Diagnostik und Beratung in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf.",
           "iconSvg": "/images/icons/services/allergologie.png",
           "icon": "🌸",
+          "image": null,
+          "active": true,
+          "order": 4
+        },
+        {
+          "id": "mykologie",
+          "title": "Mykologie / Pilzerkrankungen",
+          "slug": "mykologie",
+          "intro": "Pilzerkrankungen mit PCR-Diagnostik, zertifiziert nach Instand Ringversuch.",
+          "description": "Pilzerkrankungen können Haut, Nägel und Schleimhäute betreffen und sehen nicht immer eindeutig aus. In unserer Praxis wird geklärt, ob tatsächlich eine Pilzinfektion vorliegt und welche Behandlung sinnvoll ist. Je nach Befund kommen moderne Laborverfahren, PCR-Diagnostik und eine gezielte Therapieplanung zum Einsatz.",
+          "duration": "",
+          "price": "",
+          "seoTitle": "Mykologie / Pilzerkrankungen | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Diagnostik und Behandlung von Pilzerkrankungen der Haut und Nägel in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf.",
+          "iconSvg": "/images/icons/services/mykologie.png",
+          "icon": "🔎",
           "image": null,
           "active": true,
           "order": 5
