@@ -70,7 +70,7 @@
       "id": "gallery-3",
       "src": "/images/gallery/laserraum.webp",
       "alt": "Spezialisierter Laser-Behandlungsraum",
-      "active": false,
+      "active": true,
       "order": 5
     },
     {
