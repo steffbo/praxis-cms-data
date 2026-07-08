@@ -293,22 +293,6 @@
           "order": 8
         },
         {
-          "id": "genetik",
-          "title": "Genetische Beratung",
-          "slug": "genetik",
-          "intro": "Qualifikation zur fachgebundenen genetischen Beratung.",
-          "description": "Bei bestimmten Hauterkrankungen, Tumorerkrankungen oder familiären Auffälligkeiten kann eine fachgebundene genetische Beratung sinnvoll sein. In der Beratung wird besprochen, ob eine genetische Fragestellung besteht, welche Bedeutung sie haben kann und welche weiteren Schritte möglich sind. Dabei stehen verständliche Einordnung und informierte Entscheidung im Vordergrund.",
-          "duration": "",
-          "price": "",
-          "seoTitle": "Genetische Beratung | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
-          "seoDescription": "Fachgebundene genetische Beratung in der Dermatologie in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf.",
-          "iconSvg": "/images/icons/services/genetik.png",
-          "icon": "🧬",
-          "image": null,
-          "active": true,
-          "order": 9
-        },
-        {
           "id": "akupunktur",
           "title": "Akupunktur & Homöopathie",
           "slug": "akupunktur",
@@ -320,6 +304,22 @@
           "seoDescription": "Ergänzende dermatologische Behandlung mit Akupunktur und Homöopathie in Berlin-Hermsdorf.",
           "iconSvg": "/images/icons/services/akupunktur.png",
           "icon": "📍",
+          "image": null,
+          "active": true,
+          "order": 9
+        },
+        {
+          "id": "genetik",
+          "title": "Genetische Beratung",
+          "slug": "genetik",
+          "intro": "Qualifikation zur fachgebundenen genetischen Beratung.",
+          "description": "Bei bestimmten Hauterkrankungen, Tumorerkrankungen oder familiären Auffälligkeiten kann eine fachgebundene genetische Beratung sinnvoll sein. In der Beratung wird besprochen, ob eine genetische Fragestellung besteht, welche Bedeutung sie haben kann und welche weiteren Schritte möglich sind. Dabei stehen verständliche Einordnung und informierte Entscheidung im Vordergrund.",
+          "duration": "",
+          "price": "",
+          "seoTitle": "Genetische Beratung | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Fachgebundene genetische Beratung in der Dermatologie in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf.",
+          "iconSvg": "/images/icons/services/genetik.png",
+          "icon": "🧬",
           "image": null,
           "active": true,
           "order": 10
