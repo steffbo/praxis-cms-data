@@ -323,6 +323,22 @@
           "image": null,
           "active": true,
           "order": 10
+        },
+        {
+          "id": "service-1783541406939",
+          "title": "Ästhetische Leistung",
+          "slug": "aesthetisch",
+          "intro": "",
+          "description": "",
+          "duration": "",
+          "price": "",
+          "seoTitle": "Ästhetische Leistung",
+          "seoDescription": "",
+          "iconSvg": "/images/icons/services/hautkrebsvorsorge.png",
+          "icon": "",
+          "image": null,
+          "active": true,
+          "order": 11
         }
       ]
     },
