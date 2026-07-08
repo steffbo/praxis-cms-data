@@ -197,6 +197,22 @@
           "order": 2
         },
         {
+          "id": "ambulante-operationen",
+          "title": "Ambulante Operationen",
+          "slug": "ambulante-operationen",
+          "intro": "Ambulante, auch ästhetische Operationen in unserer Praxis.",
+          "description": "Dermatologische Eingriffe können in geeigneten Fällen ambulant in örtlicher Betäubung in unserer Praxis durchgeführt werden. Dazu gehören sowohl die Entfernung auffälliger Hautveränderungen wie krankhafter Leberflecken und die Entfernung von Hauttumoren jeglicher Art als auch nach Abklärung die Entfernung störender Hautveränderungen. Vorab werden Befund, Vorgehen, Betäubung, Wundversorgung und Nachkontrolle verständlich besprochen.",
+          "duration": "",
+          "price": "",
+          "seoTitle": "Ambulante Operationen | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
+          "seoDescription": "Ambulante dermatologische und ästhetische Operationen in der Privatpraxis Dr. Hüttl in Berlin-Hermsdorf.",
+          "iconSvg": "/images/icons/services/ambulante-operationen.png",
+          "icon": "⚕️",
+          "image": null,
+          "active": true,
+          "order": 3
+        },
+        {
           "id": "mykologie",
           "title": "Mykologie / Pilzerkrankungen",
           "slug": "mykologie",
@@ -210,7 +226,7 @@
           "icon": "🔎",
           "image": null,
           "active": true,
-          "order": 3
+          "order": 4
         },
         {
           "id": "allergologie",
@@ -226,7 +242,7 @@
           "icon": "🌸",
           "image": null,
           "active": true,
-          "order": 4
+          "order": 5
         },
         {
           "id": "kinderhautarzt",
@@ -242,7 +258,7 @@
           "icon": "👶",
           "image": null,
           "active": true,
-          "order": 5
+          "order": 6
         },
         {
           "id": "dermato-onkologie",
@@ -256,22 +272,6 @@
           "seoDescription": "Dermato-onkologische Nachsorge nach Hautkrebs und anderen Hauttumoren in der Hautarztpraxis Dr. Hüttl.",
           "iconSvg": "/images/icons/services/dermato-onkologie.png",
           "icon": "🏥",
-          "image": null,
-          "active": true,
-          "order": 6
-        },
-        {
-          "id": "ambulante-operationen",
-          "title": "Ambulante Operationen",
-          "slug": "ambulante-operationen",
-          "intro": "Ambulante, auch ästhetische Operationen in unserer Praxis.",
-          "description": "Dermatologische Eingriffe können in geeigneten Fällen ambulant in örtlicher Betäubung in unserer Praxis durchgeführt werden. Dazu gehören sowohl die Entfernung auffälliger Hautveränderungen wie krankhafter Leberflecken und die Entfernung von Hauttumoren jeglicher Art als auch nach Abklärung die Entfernung störender Hautveränderungen. Vorab werden Befund, Vorgehen, Betäubung, Wundversorgung und Nachkontrolle verständlich besprochen.",
-          "duration": "",
-          "price": "",
-          "seoTitle": "Ambulante Operationen | Hautarztpraxis Dr. Hüttl Berlin-Hermsdorf",
-          "seoDescription": "Ambulante dermatologische und ästhetische Operationen in der Privatpraxis Dr. Hüttl in Berlin-Hermsdorf.",
-          "iconSvg": "/images/icons/services/ambulante-operationen.png",
-          "icon": "⚕️",
           "image": null,
           "active": true,
           "order": 7
