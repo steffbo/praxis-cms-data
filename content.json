@@ -293,6 +293,22 @@
           "order": 8
         },
         {
+          "id": "service-1783541406939",
+          "title": "Ästhetische Leistung",
+          "slug": "aesthetisch",
+          "intro": "Ab 01.10.2026 für Sie hier bei uns verfügbar!",
+          "description": "",
+          "duration": "",
+          "price": "",
+          "seoTitle": "Ästhetische Leistung",
+          "seoDescription": "",
+          "iconSvg": "/images/icons/services/aesthetische-leistung.png",
+          "icon": "⚕️",
+          "image": null,
+          "active": true,
+          "order": 9
+        },
+        {
           "id": "akupunktur",
           "title": "Akupunktur & Homöopathie",
           "slug": "akupunktur",
@@ -306,7 +322,7 @@
           "icon": "📍",
           "image": null,
           "active": true,
-          "order": 9
+          "order": 10
         },
         {
           "id": "genetik",
@@ -320,22 +336,6 @@
           "seoDescription": "Fachgebundene genetische Beratung in der Dermatologie in der Hautarztpraxis Dr. Hüttl in Berlin-Hermsdorf.",
           "iconSvg": "/images/icons/services/genetik.png",
           "icon": "🧬",
-          "image": null,
-          "active": true,
-          "order": 10
-        },
-        {
-          "id": "service-1783541406939",
-          "title": "Ästhetische Leistung",
-          "slug": "aesthetisch",
-          "intro": "Ab 01.10.2026 für Sie hier bei uns verfügbar!",
-          "description": "",
-          "duration": "",
-          "price": "",
-          "seoTitle": "Ästhetische Leistung",
-          "seoDescription": "",
-          "iconSvg": "/images/icons/services/aesthetische-leistung.png",
-          "icon": "⚕️",
           "image": null,
           "active": true,
           "order": 11
