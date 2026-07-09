@@ -412,6 +412,11 @@
             {
               "id": "img-1783597776929",
               "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/team/czekajlo-1783597777130.jpg",
+              "active": false
+            },
+            {
+              "id": "img-1783597933338",
+              "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/team/czekajlo-1783597933494.jpg",
               "active": true
             }
           ],
