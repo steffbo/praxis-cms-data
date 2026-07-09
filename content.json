@@ -42,7 +42,7 @@
       "id": "gallery-praxis-fotos-3",
       "src": "/images/gallery/praxis-fotos-3.webp",
       "alt": "Wartebereich der Praxis mit Blick ins Grüne",
-      "active": true,
+      "active": false,
       "order": 1
     },
     {
