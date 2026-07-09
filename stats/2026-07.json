@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 169,
-    "visitors": 26,
+    "pageviews": 180,
+    "visitors": 30,
     "sessions": 0
   },
   "days": {
@@ -236,8 +236,8 @@
       "referrers": {}
     },
     "2026-07-09": {
-      "pageviews": 40,
-      "visitors": 8,
+      "pageviews": 51,
+      "visitors": 12,
       "sessions": 0,
       "visitorHashes": [
         "d210c7064374",
@@ -247,31 +247,50 @@
         "fb0a3a01c487",
         "0d34f3d44d77",
         "01a7d85d2870",
-        "4aa05ce99fe1"
+        "4aa05ce99fe1",
+        "7e7f6af52394",
+        "06efa61caa5c",
+        "7ca17769e2d0",
+        "45d3dbbaa4cb"
       ],
       "pages": {
-        "/": 17,
+        "/": 18,
         "/admin": 2,
-        "/#leistungen": 6,
-        "/kontakt": 11,
+        "/#leistungen": 9,
+        "/kontakt": 12,
         "/leistungen/aesthetisch": 2,
         "/#team": 1,
-        "/#top": 1
+        "/#top": 4,
+        "/leistungen/ambulante-operationen": 1,
+        "/impressum": 1,
+        "/datenschutz": 1
       },
-      "events": {},
+      "events": {
+        "doctolib-click": {
+          "total": 1,
+          "properties": {
+            "doctor": {
+              "general": 1
+            },
+            "location": {
+              "hero": 1
+            }
+          }
+        }
+      },
       "devices": {
-        "laptop": 5,
+        "laptop": 7,
         "desktop": 2,
-        "mobile": 1
+        "mobile": 3
       },
       "browsers": {
-        "firefox": 5,
-        "chrome": 3
+        "firefox": 8,
+        "chrome": 4
       },
       "os": {
-        "Mac OS": 5,
+        "Mac OS": 7,
         "Windows": 2,
-        "Android": 1
+        "Android": 3
       },
       "referrers": {}
     }
