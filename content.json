@@ -479,7 +479,23 @@
           "active": false,
           "order": 4
         }
-      ]
+      ],
+      "groupPhoto": {
+        "src": "/images/team/team-gruppenfoto.webp",
+        "alt": "Das Team der Hautarztpraxis Dr. Hüttl",
+        "heading": "Unser Team",
+        "members": [
+          { "name": "Vivien", "role": "Praxisleitung", "details": "Medizinische Fachangestellte, MFA Akademie: Dermatologie für medizinische Assistenzberufe, Laserschutzbeauftragte nach OstrV und TROS, Hygienebeauftragte MFA" },
+          { "name": "Lisa", "role": "Stellvertretende Praxisleitung", "details": "Medizinische Fachangestellte, MFA Akademie: Dermatologie für medizinische Assistenzberufe, Laserschutzbeauftragte nach OstrV und TROS, Lehrgang für die Aufbereitung von Medizinprodukten" },
+          { "name": "Andrea", "role": "Examinierte Krankenschwester", "details": "MFA Akademie: Dermatologie für medizinische Assistenzberufe, Laserschutzbeauftragte nach OstrV und TROS, Lehrgang für die Aufbereitung von Medizinprodukten" },
+          { "name": "Janine", "role": "Staatl. examinierte Kosmetikerin", "details": "MFA Akademie: Dermatologie für medizinische Assistenzberufe, Laserschutzbeauftragte nach OstrV und TROS" },
+          { "name": "Melanie", "role": "Arzthelferin", "details": "Laserschutzbeauftragte nach OstrV und TROS" },
+          { "name": "Ursula", "role": "Heilpraktikerin", "details": "Laserschutzbeauftragte nach OstrV und TROS" },
+          { "name": "Annika", "role": "Quereinsteigerin", "details": "" },
+          { "name": "Petra", "role": "MTA für PCR-Diagnostik", "details": "" },
+          { "name": "Christina", "role": "BTA für PCR-Diagnostik", "details": "" }
+        ]
+      }
     },
     "kontakt": {
       "title": "Kontakt",
