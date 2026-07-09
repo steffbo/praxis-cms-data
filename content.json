@@ -500,7 +500,7 @@
     "kontakt": {
       "title": "Kontakt",
       "intro": "Wir freuen uns auf Ihren Besuch. Vereinbaren Sie gerne einen Termin online über Doctolib. Sollte unsere Antwort auf Ihre E-Mail Anfrage aus praxisorganisatorischen Gründen nicht kurzfristig erfolgen können, möchten wir Sie bitten, uns erneut - dann aber bitte per Telefon oder Fax - zu kontaktieren.",
-      "image": "/images/gallery/praxis-fotos-1.webp",
+      "image": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/gallery/praxis-fotos-1.webp",
       "directions": {
         "public": "S-Bahn: Linie S1, Haltestelle S Hermsdorf • Bus: Linie 125, Haltestelle Mühlenfeldstr.",
         "parking": "Gute Parkmöglichkeiten vorhanden",
