@@ -1,7 +1,7 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 180,
+    "pageviews": 181,
     "visitors": 30,
     "sessions": 0
   },
@@ -236,7 +236,7 @@
       "referrers": {}
     },
     "2026-07-09": {
-      "pageviews": 51,
+      "pageviews": 52,
       "visitors": 12,
       "sessions": 0,
       "visitorHashes": [
@@ -256,7 +256,7 @@
       "pages": {
         "/": 18,
         "/admin": 2,
-        "/#leistungen": 9,
+        "/#leistungen": 10,
         "/kontakt": 12,
         "/leistungen/aesthetisch": 2,
         "/#team": 1,
