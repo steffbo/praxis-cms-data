@@ -446,6 +446,11 @@
             {
               "id": "img-remer-1",
               "src": "/images/team/franziska-remer.jpg",
+              "active": false
+            },
+            {
+              "id": "img-1783597789344",
+              "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/team/franziska-remer-1783597789550.jpg",
               "active": true
             }
           ],
