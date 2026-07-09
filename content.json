@@ -443,6 +443,26 @@
           "gender": "female",
           "active": true,
           "order": 3
+        },
+        {
+          "id": "team-1783577190447",
+          "name": "Dr. med. Elvira Ruppel",
+          "title": "Fachärztin für Dermatologie",
+          "specialization": "",
+          "bio": "",
+          "languages": [
+            "Deutsch",
+            "Polnisch",
+            "Englisch"
+          ],
+          "images": [],
+          "doctolib": "",
+          "gender": "female",
+          "active": true,
+          "order": 4,
+          "cv": "",
+          "certifications": [],
+          "memberships": []
         }
       ]
     },
