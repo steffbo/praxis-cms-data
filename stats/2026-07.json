@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 153,
-    "visitors": 21,
+    "pageviews": 169,
+    "visitors": 26,
     "sessions": 0
   },
   "days": {
@@ -236,30 +236,42 @@
       "referrers": {}
     },
     "2026-07-09": {
-      "pageviews": 24,
-      "visitors": 3,
+      "pageviews": 40,
+      "visitors": 8,
       "sessions": 0,
       "visitorHashes": [
         "d210c7064374",
         "166960298cd9",
-        "3f232d57674c"
+        "3f232d57674c",
+        "b2b8910595c8",
+        "fb0a3a01c487",
+        "0d34f3d44d77",
+        "01a7d85d2870",
+        "4aa05ce99fe1"
       ],
       "pages": {
-        "/": 6,
+        "/": 17,
         "/admin": 2,
         "/#leistungen": 6,
-        "/kontakt": 10
+        "/kontakt": 11,
+        "/leistungen/aesthetisch": 2,
+        "/#team": 1,
+        "/#top": 1
       },
       "events": {},
       "devices": {
-        "laptop": 3
+        "laptop": 5,
+        "desktop": 2,
+        "mobile": 1
       },
       "browsers": {
-        "firefox": 2,
-        "chrome": 1
+        "firefox": 5,
+        "chrome": 3
       },
       "os": {
-        "Mac OS": 3
+        "Mac OS": 5,
+        "Windows": 2,
+        "Android": 1
       },
       "referrers": {}
     }
