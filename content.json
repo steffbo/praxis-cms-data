@@ -473,7 +473,13 @@
             "Russisch",
             "Englisch"
           ],
-          "images": [],
+          "images": [
+            {
+              "id": "img-1783608946619",
+              "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/team/csm-elvira-ruppel-5519b4a169-1783608946775.jpg",
+              "active": true
+            }
+          ],
           "doctolib": "",
           "gender": "female",
           "active": false,
