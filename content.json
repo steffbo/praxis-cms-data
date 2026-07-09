@@ -450,6 +450,9 @@
           "title": "Fachärztin für Dermatologie",
           "specialization": "",
           "bio": "",
+          "cv": "",
+          "certifications": [],
+          "memberships": [],
           "languages": [
             "Deutsch",
             "Englisch"
@@ -457,11 +460,8 @@
           "images": [],
           "doctolib": "",
           "gender": "female",
-          "active": true,
-          "order": 4,
-          "cv": "",
-          "certifications": [],
-          "memberships": []
+          "active": false,
+          "order": 4
         }
       ]
     },
