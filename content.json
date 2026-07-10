@@ -373,6 +373,25 @@
           "detailImageAlt": "",
           "active": true,
           "order": 11
+        },
+        {
+          "id": "service-1783694452262",
+          "title": "Allgemeine Dermatologie",
+          "slug": "allgemein",
+          "intro": "Wir sind gerne Ihre Ansprechpartner zu allen Fragen der allgemeinen Dermatologie, sei es nun Schuppenflechte oder Neurodermitis, Akne oder sonstige Hauterkrankungen.",
+          "description": "Mit der richtigen Diagnostik und entsprechender Lokal-Therapie als auch - falls erforderlich - mit den modernen System-Therapeutika zum Beispiel in Form von Biologika sind wir gern für Sie da.",
+          "duration": "",
+          "price": "",
+          "seoTitle": "",
+          "seoDescription": "",
+          "iconSvg": "/images/icons/services/hautkrebsvorsorge.png",
+          "icon": "",
+          "image": null,
+          "images": [],
+          "detailImage": null,
+          "detailImageAlt": "",
+          "active": true,
+          "order": 12
         }
       ]
     },
