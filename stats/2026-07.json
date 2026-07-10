@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 181,
-    "visitors": 30,
+    "pageviews": 205,
+    "visitors": 35,
     "sessions": 0
   },
   "days": {
@@ -291,6 +291,55 @@
         "Mac OS": 7,
         "Windows": 2,
         "Android": 3
+      },
+      "referrers": {}
+    },
+    "2026-07-10": {
+      "pageviews": 24,
+      "visitors": 5,
+      "sessions": 0,
+      "visitorHashes": [
+        "72fb66e2dfe9",
+        "8f7cfa15d705",
+        "90ac3c776ad6",
+        "739ed307b29e",
+        "1701ff5c6c48"
+      ],
+      "pages": {
+        "/": 17,
+        "/leistungen/aesthetische-leistung": 1,
+        "/leistungen/aesthetisch": 5,
+        "/leistungen/lasertherapie": 1
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 2,
+          "properties": {
+            "doctor": {
+              "general": 2
+            },
+            "location": {
+              "hero": 1,
+              "bottom-cta": 1
+            }
+          }
+        }
+      },
+      "devices": {
+        "laptop": 3,
+        "mobile": 1,
+        "desktop": 1
+      },
+      "browsers": {
+        "chrome": 2,
+        "safari": 1,
+        "firefox": 1,
+        "edge": 1
+      },
+      "os": {
+        "Mac OS": 3,
+        "iOS": 1,
+        "Windows": 1
       },
       "referrers": {}
     }
