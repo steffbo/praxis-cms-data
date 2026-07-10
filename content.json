@@ -185,6 +185,25 @@
           "order": 1
         },
         {
+          "id": "service-1783694452262",
+          "title": "Allgemeine Dermatologie",
+          "slug": "allgemein",
+          "intro": "Wir sind gerne Ihre Ansprechpartner zu allen Fragen der allgemeinen Dermatologie, sei es nun Schuppenflechte oder Neurodermitis, Akne oder sonstige Hauterkrankungen.",
+          "description": "Mit der richtigen Diagnostik und entsprechender Lokal-Therapie als auch - falls erforderlich - mit den modernen System-Therapeutika zum Beispiel in Form von Biologika sind wir gern für Sie da.",
+          "duration": "",
+          "price": "",
+          "seoTitle": "",
+          "seoDescription": "",
+          "iconSvg": "/images/icons/services/hautkrebsvorsorge.png",
+          "icon": "⚕️",
+          "images": [],
+          "image": null,
+          "detailImage": null,
+          "detailImageAlt": "",
+          "active": true,
+          "order": 2
+        },
+        {
           "id": "lasertherapie",
           "title": "Dermatologische Lasertherapie",
           "slug": "lasertherapie",
@@ -201,7 +220,7 @@
           "detailImage": null,
           "detailImageAlt": "",
           "active": true,
-          "order": 2
+          "order": 3
         },
         {
           "id": "ambulante-operationen",
@@ -220,7 +239,7 @@
           "detailImage": null,
           "detailImageAlt": "",
           "active": true,
-          "order": 3
+          "order": 4
         },
         {
           "id": "allergologie",
@@ -239,7 +258,7 @@
           "detailImage": null,
           "detailImageAlt": "",
           "active": true,
-          "order": 4
+          "order": 5
         },
         {
           "id": "dermato-onkologie",
@@ -258,7 +277,7 @@
           "detailImage": null,
           "detailImageAlt": "",
           "active": true,
-          "order": 5
+          "order": 6
         },
         {
           "id": "service-1769520729457",
@@ -277,7 +296,7 @@
           "detailImage": null,
           "detailImageAlt": "",
           "active": true,
-          "order": 6
+          "order": 7
         },
         {
           "id": "mykologie",
@@ -296,7 +315,7 @@
           "detailImage": null,
           "detailImageAlt": "",
           "active": true,
-          "order": 7
+          "order": 8
         },
         {
           "id": "kinderhautarzt",
@@ -315,7 +334,7 @@
           "detailImage": null,
           "detailImageAlt": "",
           "active": true,
-          "order": 8
+          "order": 9
         },
         {
           "id": "service-1783541406939",
@@ -334,7 +353,7 @@
           "detailImage": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/services/aesthetisch-flyer-1783692532981.webp",
           "detailImageAlt": "Ästhetische Leistung",
           "active": true,
-          "order": 9
+          "order": 10
         },
         {
           "id": "akupunktur",
@@ -353,7 +372,7 @@
           "detailImage": null,
           "detailImageAlt": "",
           "active": true,
-          "order": 10
+          "order": 11
         },
         {
           "id": "genetik",
@@ -369,25 +388,6 @@
           "icon": "🧬",
           "images": [],
           "image": null,
-          "detailImage": null,
-          "detailImageAlt": "",
-          "active": true,
-          "order": 11
-        },
-        {
-          "id": "service-1783694452262",
-          "title": "Allgemeine Dermatologie",
-          "slug": "allgemein",
-          "intro": "Wir sind gerne Ihre Ansprechpartner zu allen Fragen der allgemeinen Dermatologie, sei es nun Schuppenflechte oder Neurodermitis, Akne oder sonstige Hauterkrankungen.",
-          "description": "Mit der richtigen Diagnostik und entsprechender Lokal-Therapie als auch - falls erforderlich - mit den modernen System-Therapeutika zum Beispiel in Form von Biologika sind wir gern für Sie da.",
-          "duration": "",
-          "price": "",
-          "seoTitle": "",
-          "seoDescription": "",
-          "iconSvg": "/images/icons/services/hautkrebsvorsorge.png",
-          "icon": "",
-          "image": null,
-          "images": [],
           "detailImage": null,
           "detailImageAlt": "",
           "active": true,
