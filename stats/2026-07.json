@@ -1,358 +1,42 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 288,
-    "visitors": 42,
+    "pageviews": 16,
+    "visitors": 4,
     "sessions": 0
   },
   "days": {
-    "2026-07-01": {
-      "pageviews": 1,
-      "visitors": 1,
+    "2026-07-10": {
+      "pageviews": 16,
+      "visitors": 4,
       "sessions": 0,
       "visitorHashes": [
-        "684980b65267"
-      ],
-      "pages": {
-        "/": 1
-      },
-      "events": {},
-      "devices": {
-        "desktop": 1
-      },
-      "browsers": {
-        "chrome": 1
-      },
-      "os": {
-        "Windows": 1
-      },
-      "referrers": {}
-    },
-    "2026-07-02": {
-      "pageviews": 18,
-      "visitors": 3,
-      "sessions": 0,
-      "visitorHashes": [
-        "df180230b8e9",
-        "90a170473c23",
-        "41758b9eafa7"
-      ],
-      "pages": {
-        "/": 14,
-        "/kontakt": 3,
-        "/leistungen/mykologie": 1
-      },
-      "events": {},
-      "devices": {
-        "laptop": 3
-      },
-      "browsers": {
-        "firefox": 1,
-        "chrome": 2
-      },
-      "os": {
-        "Mac OS": 3
-      },
-      "referrers": {}
-    },
-    "2026-07-03": {
-      "pageviews": 20,
-      "visitors": 2,
-      "sessions": 0,
-      "visitorHashes": [
-        "400839ea31bf",
-        "e2fb87da6321"
+        "a6f4875b249c",
+        "d6399523ff42",
+        "0ebcd8e6b209",
+        "0fed44875236"
       ],
       "pages": {
         "/": 10,
-        "/leistungen/lasertherapie": 2,
-        "/leistungen/allergologie": 2,
-        "/leistungen/hautkrebsvorsorge": 2,
-        "/kontakt": 3,
-        "/#team": 1
+        "/leistungen/aesthetisch": 3,
+        "/#team": 1,
+        "/leistungen/ambulante-operationen": 1,
+        "/kontakt": 1
       },
       "events": {},
       "devices": {
         "laptop": 1,
-        "mobile": 1
+        "mobile": 3
       },
       "browsers": {
-        "firefox": 1,
+        "firefox": 2,
+        "chrome": 1,
         "safari": 1
       },
       "os": {
         "Mac OS": 1,
+        "Android": 2,
         "iOS": 1
-      },
-      "referrers": {}
-    },
-    "2026-07-04": {
-      "pageviews": 10,
-      "visitors": 1,
-      "sessions": 0,
-      "visitorHashes": [
-        "faad69ec95fe"
-      ],
-      "pages": {
-        "/": 9,
-        "/kontakt": 1
-      },
-      "events": {
-        "doctolib-click": {
-          "total": 1,
-          "properties": {
-            "doctor": {
-              "general": 1
-            },
-            "location": {
-              "hero": 1
-            }
-          }
-        }
-      },
-      "devices": {
-        "mobile": 1
-      },
-      "browsers": {
-        "safari": 1
-      },
-      "os": {
-        "iOS": 1
-      },
-      "referrers": {}
-    },
-    "2026-07-05": {
-      "pageviews": 4,
-      "visitors": 1,
-      "sessions": 0,
-      "visitorHashes": [
-        "0b8c6bcca493"
-      ],
-      "pages": {
-        "/": 3,
-        "/leistungen/hautkrebsvorsorge": 1
-      },
-      "events": {},
-      "devices": {
-        "mobile": 1
-      },
-      "browsers": {
-        "safari": 1
-      },
-      "os": {
-        "iOS": 1
-      },
-      "referrers": {}
-    },
-    "2026-07-06": {
-      "pageviews": 13,
-      "visitors": 3,
-      "sessions": 0,
-      "visitorHashes": [
-        "eef705a18411",
-        "bda1b528318f",
-        "e1a5a6ae03e1"
-      ],
-      "pages": {
-        "/": 8,
-        "/impressum": 2,
-        "/datenschutz": 2,
-        "/#top": 1
-      },
-      "events": {},
-      "devices": {
-        "mobile": 1,
-        "desktop": 1,
-        "laptop": 1
-      },
-      "browsers": {
-        "safari": 1,
-        "edge": 1,
-        "firefox": 1
-      },
-      "os": {
-        "iOS": 1,
-        "Windows": 1,
-        "Mac OS": 1
-      },
-      "referrers": {}
-    },
-    "2026-07-08": {
-      "pageviews": 63,
-      "visitors": 7,
-      "sessions": 0,
-      "visitorHashes": [
-        "1b201fe6b2b1",
-        "4b1dd86262b6",
-        "082a37d8e7bd",
-        "f1fcf2252737",
-        "fd5682c39931",
-        "e30d5bac8279",
-        "13e2630ccce7"
-      ],
-      "pages": {
-        "/": 29,
-        "/kontakt": 5,
-        "/impressum": 1,
-        "/datenschutz": 1,
-        "/#top": 7,
-        "/#leistungen": 12,
-        "/admin": 1,
-        "/leistungen/hautkrebsvorsorge": 1,
-        "/leistungen/lasertherapie": 3,
-        "/leistungen/allergologie": 1,
-        "/leistungen/ambulante-operationen": 1,
-        "/leistungen/dermato-onkologie": 1
-      },
-      "events": {
-        "doctolib-click": {
-          "total": 2,
-          "properties": {
-            "doctor": {
-              "general": 2
-            },
-            "location": {
-              "hero": 2
-            }
-          }
-        }
-      },
-      "devices": {
-        "laptop": 3,
-        "mobile": 3,
-        "desktop": 1
-      },
-      "browsers": {
-        "firefox": 2,
-        "safari": 3,
-        "edge": 1,
-        "chrome": 1
-      },
-      "os": {
-        "Mac OS": 3,
-        "iOS": 3,
-        "Windows": 1
-      },
-      "referrers": {}
-    },
-    "2026-07-09": {
-      "pageviews": 52,
-      "visitors": 12,
-      "sessions": 0,
-      "visitorHashes": [
-        "d210c7064374",
-        "166960298cd9",
-        "3f232d57674c",
-        "b2b8910595c8",
-        "fb0a3a01c487",
-        "0d34f3d44d77",
-        "01a7d85d2870",
-        "4aa05ce99fe1",
-        "7e7f6af52394",
-        "06efa61caa5c",
-        "7ca17769e2d0",
-        "45d3dbbaa4cb"
-      ],
-      "pages": {
-        "/": 18,
-        "/admin": 2,
-        "/#leistungen": 10,
-        "/kontakt": 12,
-        "/leistungen/aesthetisch": 2,
-        "/#team": 1,
-        "/#top": 4,
-        "/leistungen/ambulante-operationen": 1,
-        "/impressum": 1,
-        "/datenschutz": 1
-      },
-      "events": {
-        "doctolib-click": {
-          "total": 1,
-          "properties": {
-            "doctor": {
-              "general": 1
-            },
-            "location": {
-              "hero": 1
-            }
-          }
-        }
-      },
-      "devices": {
-        "laptop": 7,
-        "desktop": 2,
-        "mobile": 3
-      },
-      "browsers": {
-        "firefox": 8,
-        "chrome": 4
-      },
-      "os": {
-        "Mac OS": 7,
-        "Windows": 2,
-        "Android": 3
-      },
-      "referrers": {}
-    },
-    "2026-07-10": {
-      "pageviews": 107,
-      "visitors": 12,
-      "sessions": 0,
-      "visitorHashes": [
-        "72fb66e2dfe9",
-        "8f7cfa15d705",
-        "90ac3c776ad6",
-        "739ed307b29e",
-        "1701ff5c6c48",
-        "642de5a4b552",
-        "a6f4875b249c",
-        "9bde1b41845a",
-        "9492d89a38fd",
-        "3a5e4576bbd0",
-        "b01983bf6127",
-        "4ba709e235ce"
-      ],
-      "pages": {
-        "/": 81,
-        "/leistungen/aesthetische-leistung": 1,
-        "/leistungen/aesthetisch": 12,
-        "/leistungen/lasertherapie": 1,
-        "/#leistungen": 7,
-        "/admin": 2,
-        "/leistungen/allgemein": 1,
-        "/kontakt": 1,
-        "/impressum": 1
-      },
-      "events": {
-        "doctolib-click": {
-          "total": 2,
-          "properties": {
-            "doctor": {
-              "general": 2
-            },
-            "location": {
-              "hero": 1,
-              "bottom-cta": 1
-            }
-          }
-        }
-      },
-      "devices": {
-        "laptop": 6,
-        "mobile": 5,
-        "desktop": 1
-      },
-      "browsers": {
-        "chrome": 4,
-        "safari": 5,
-        "firefox": 2,
-        "edge": 1
-      },
-      "os": {
-        "Mac OS": 6,
-        "iOS": 4,
-        "Windows": 1,
-        "Android": 1
       },
       "referrers": {}
     }
