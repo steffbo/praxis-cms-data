@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 39,
-    "visitors": 12,
+    "pageviews": 42,
+    "visitors": 14,
     "sessions": 0
   },
   "days": {
@@ -88,6 +88,33 @@
       "os": {
         "Windows": 3,
         "Android": 2,
+        "Mac OS": 1
+      },
+      "referrers": {}
+    },
+    "2026-07-12": {
+      "pageviews": 3,
+      "visitors": 2,
+      "sessions": 0,
+      "visitorHashes": [
+        "c7801cded019",
+        "47628099f184"
+      ],
+      "pages": {
+        "/": 2,
+        "/impressum": 1
+      },
+      "events": {},
+      "devices": {
+        "desktop": 1,
+        "laptop": 1
+      },
+      "browsers": {
+        "edge": 1,
+        "chrome": 1
+      },
+      "os": {
+        "Windows": 1,
         "Mac OS": 1
       },
       "referrers": {}
