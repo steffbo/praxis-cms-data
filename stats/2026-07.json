@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 57,
-    "visitors": 21,
+    "pageviews": 79,
+    "visitors": 24,
     "sessions": 0
   },
   "days": {
@@ -196,6 +196,43 @@
         "safari": 1
       },
       "os": {
+        "iOS": 1
+      },
+      "referrers": {}
+    },
+    "2026-07-16": {
+      "pageviews": 22,
+      "visitors": 3,
+      "sessions": 0,
+      "visitorHashes": [
+        "50a4bbdae537",
+        "95ef7d6892d9",
+        "198feceb15a0"
+      ],
+      "pages": {
+        "/": 4,
+        "/datenschutz": 1,
+        "/#leistungen": 5,
+        "/leistungen/hautkrebsvorsorge": 3,
+        "/impressum": 2,
+        "/leistungen/aesthetisch": 2,
+        "/leistungen/allergologie": 1,
+        "/leistungen/genetik": 1,
+        "/leistungen/lasertherapie": 2,
+        "/leistungen/ambulante-operationen": 1
+      },
+      "events": {},
+      "devices": {
+        "desktop": 2,
+        "mobile": 1
+      },
+      "browsers": {
+        "edge": 1,
+        "firefox": 1,
+        "safari": 1
+      },
+      "os": {
+        "Windows": 2,
         "iOS": 1
       },
       "referrers": {}
