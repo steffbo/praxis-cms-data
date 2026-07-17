@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 79,
-    "visitors": 24,
+    "pageviews": 187,
+    "visitors": 31,
     "sessions": 0
   },
   "days": {
@@ -234,6 +234,69 @@
       "os": {
         "Windows": 2,
         "iOS": 1
+      },
+      "referrers": {}
+    },
+    "2026-07-17": {
+      "pageviews": 108,
+      "visitors": 7,
+      "sessions": 0,
+      "visitorHashes": [
+        "6c7238f4217f",
+        "0397bd99ecb8",
+        "b81984ec105b",
+        "0ae95e08f8bf",
+        "55b46c772b8c",
+        "6b5da4613362",
+        "d2929a2403ce"
+      ],
+      "pages": {
+        "/": 18,
+        "/kontakt": 10,
+        "/leistungen/aesthetisch": 10,
+        "/impressum": 5,
+        "/#top": 11,
+        "/admin": 5,
+        "/datenschutz": 7,
+        "/leistungen/hautkrebsvorsorge": 7,
+        "/#leistungen": 17,
+        "/leistungen/allgemein": 2,
+        "/leistungen/lasertherapie": 3,
+        "/leistungen/ambulante-operationen": 1,
+        "/leistungen/allergologie": 4,
+        "/leistungen/dermato-onkologie": 1,
+        "/leistungen/photodynamische-therapie": 1,
+        "/leistungen/mykologie": 4,
+        "/leistungen/kinderhautarzt": 1,
+        "/#team": 1
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 1,
+          "properties": {
+            "doctor": {
+              "Franziska Remer": 1
+            },
+            "location": {
+              "team-modal": 1
+            }
+          }
+        }
+      },
+      "devices": {
+        "desktop": 1,
+        "mobile": 6
+      },
+      "browsers": {
+        "edge": 1,
+        "safari": 4,
+        "chrome": 1,
+        "firefox": 1
+      },
+      "os": {
+        "Windows": 1,
+        "iOS": 4,
+        "Android": 2
       },
       "referrers": {}
     }
