@@ -1,81 +1,51 @@
 # Datenschutzerklärung
 
-*Stand: Januar 2026*
+*Stand: Juli 2026*
 
-## 1. Verantwortlicher
-Verantwortlich für die Datenverarbeitung auf dieser Website ist:
+## Verantwortlicher:
+Dr. med. Beate Hüttl
+Kurfürstenstraße 28, 13467 Berlin-Hermsdorf
+Telefon: (030) 405 33 755
+E-Mail: praxis@dr-huettl.de
 
-Dr. med. Beate R. Hüttl
-{{site.address.street}}
-{{site.address.zip}} {{site.address.city}}
-E-Mail: {{site.email}}
+## 1. Aufruf der Website (Server-Logfiles)
+Beim Aufruf unserer Website übermittelt Ihr Browser automatisch Daten an unseren Server, die vorübergehend in einem Logfile gespeichert werden: IP-Adresse, Datum und Uhrzeit des Zugriffs, Name und URL der abgerufenen Datei, übertragene Datenmenge, Browsertyp und -version, Betriebssystem sowie die zuvor besuchte Seite (Referrer-URL).
+Diese Daten werden zur Auslieferung der Website sowie zur Gewährleistung von Stabilität und Sicherheit verarbeitet. Rechtsgrundlage ist unser berechtigtes Interesse an einem sicheren Betrieb (Art. 6 Abs. 1 lit. f DSGVO). Die Logfiles werden spätestens nach 7 Tagen gelöscht.
 
-## 2. Personenbezogene Daten
-Personenbezogene Daten sind alle Einzelangaben über persönliche oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person. Es sind sämtliche Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen (Art. 4 Abs. 1 DSGVO).
+## 2. Kontaktaufnahme per E-Mail
+Wenn Sie uns per E-Mail kontaktieren, verarbeiten wir Ihre E-Mail-Adresse und die von Ihnen mitgeteilten Angaben, um Ihre Anfrage zu bearbeiten. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Anbahnung oder Durchführung eines Behandlungsvertrags) bzw. Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung Ihrer Anfrage).
+Die Angabe von Gesundheitsdaten ist freiwillig. Soweit Sie solche Daten mitteilen, verarbeiten wir sie ausschließlich zur Bearbeitung Ihres Anliegens; Rechtsgrundlage ist insoweit Art. 9 Abs. 2 lit. h DSGVO. Die Verarbeitung erfolgt nur durch Personal, das der ärztlichen Schweigepflicht unterliegt.
+Wir löschen diese Daten, sobald Ihre Anfrage erledigt ist, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Kommt ein Behandlungsverhältnis zustande, gilt die gesetzliche ärztliche Aufbewahrungsfrist (grundsätzlich 10 Jahre).
+Bitte beachten Sie, dass unverschlüsselte E-Mails auf dem Übertragungsweg von Dritten mitgelesen werden können.
 
-## 3. Besuch der Website (Server-Logs)
-Beim Besuch unserer Website werden automatisch Informationen an unseren Server übermittelt. Diese Informationen werden temporär in einem Log-File gespeichert. Folgende Informationen werden dabei ohne Ihr Zutun erfasst und bis zur automatisierten Löschung gespeichert:
-
-- IP-Adresse des anfragenden Rechners (anonymisiert)
-- Datum und Uhrzeit des Zugriffs
-- Name und URL der abgerufenen Datei
-- Website, von der aus der Zugriff erfolgt (Referrer-URL)
-- Verwendeter Browser und ggf. das Betriebssystem
-
-Die Verarbeitung erfolgt zur Gewährleistung eines reibungslosen Verbindungsaufbaus, zur komfortablen Nutzung der Website sowie zur Systemsicherheit (Art. 6 Abs. 1 lit. f DSGVO).
-
-## 4. Kontaktformular und E-Mail
+## 3. Kontaktformular und E-Mail
 Wenn Sie uns per Kontaktformular oder E-Mail Anfragen zukommen lassen, werden Ihre Angaben inklusive der von Ihnen angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
 
 Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können diese Einwilligung jederzeit widerrufen.
 
 Hinweis: E-Mails können auf dem Übertragungsweg unbefugt und unbemerkt mitgelesen oder verändert werden. Bitte übertragen Sie E-Mails möglichst verschlüsselt.
 
-## 5. Kartendienst (OpenStreetMap)
-Auf unserer Kontaktseite nutzen wir den Kartendienst OpenStreetMap (OSM). Anbieter ist die OpenStreetMap Foundation, St John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, United Kingdom.
+## 4. Google Maps
+Auf einer gesonderten Unterseite („Anfahrt“) binden wir Kartenmaterial von Google Maps ein (Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland). Die Karte wird erst geladen, nachdem Sie aktiv zugestimmt haben. Dabei wird Ihre IP-Adresse an Google übertragen; eine Übermittlung in die USA kann nicht ausgeschlossen werden.
+Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG), die Sie jederzeit mit Wirkung für die Zukunft widerrufen können. Weitere Informationen: https://policies.google.com/privacy
 
-Wenn Sie eine Seite mit eingebundener OpenStreetMap-Karte aufrufen, wird eine Verbindung zu den Servern von OpenStreetMap hergestellt. Dabei wird Ihre IP-Adresse an OpenStreetMap übertragen. Dies ist technisch notwendig, um die Karteninhalte anzuzeigen.
 
-OpenStreetMap setzt keine Cookies und erstellt keine Nutzerprofile. Die Nutzung erfolgt auf Grundlage unseres berechtigten Interesses an einer ansprechenden Darstellung unseres Standorts (Art. 6 Abs. 1 lit. f DSGVO).
+## 5. Externe Links (u. a. Terminbuchung)
+Unsere Website enthält einen Link zum Online-Terminservice von Doctolib sowie ggf. weitere externe Links. Wenn Sie einen solchen Link anklicken, verlassen Sie unsere Website; für die Datenverarbeitung auf der Zielseite ist der jeweilige Anbieter verantwortlich. Datenschutzhinweise von Doctolib: https://www.doctolib.de/terms/privacy-policy
 
-Weitere Informationen finden Sie in der [Datenschutzerklärung von OpenStreetMap](https://wiki.osmfoundation.org/wiki/Privacy_Policy).
-
-## 6. Analyse-Tools
-Diese Website verwendet Umami Analytics, ein datenschutzfreundliches Analyse-Tool. Es werden keine Cookies gesetzt und keine personenbezogenen Daten gespeichert. Die Datenverarbeitung erfolgt auf unserem eigenen Server in Deutschland.
-
-Umami erfasst nur anonymisierte, aggregierte Daten wie Seitenaufrufe und Besucheranzahl. Eine Identifizierung einzelner Nutzer ist nicht möglich.
+## 6.  Empfänger
+Eine Weitergabe Ihrer Daten erfolgt nur, soweit dies gesetzlich zulässig oder für die genannten Zwecke erforderlich ist oder Sie eingewilligt haben. Für den technischen Betrieb setzen wir einen Hosting-Dienstleister als Auftragsverarbeiter ein. Im Rahmen einer Behandlung können Daten an weitere Stellen weitergegeben werden (z. B. Labore oder Abrechnungsstellen); hierüber informieren wir gesondert.
 
 ## 7. Ihre Rechte
-Sie haben gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
-
-- Recht auf Auskunft (Art. 15 DSGVO)
-- Recht auf Berichtigung (Art. 16 DSGVO)
-- Recht auf Löschung (Art. 17 DSGVO)
-- Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)
-- Recht auf Datenübertragbarkeit (Art. 20 DSGVO)
-- Recht auf Widerruf erteilter Einwilligungen (Art. 7 Abs. 3 DSGVO)
-- Recht auf Beschwerde bei einer Aufsichtsbehörde (Art. 77 DSGVO)
-
-Zuständige Aufsichtsbehörde:
-Die Berliner Beauftragte für Datenschutz und Informationsfreiheit
-Alt-Moabit 59-61, 10555 Berlin
+Sie haben das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) sowie Widerspruch gegen Verarbeitungen auf Grundlage berechtigter Interessen (Art. 21). Eine erteilte Einwilligung können Sie jederzeit mit Wirkung für die Zukunft widerrufen (Art. 7 Abs. 3 DSGVO). Wenden Sie sich dazu an die unter Ziffer 1 genannten Kontaktdaten.
+Sie haben außerdem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren, insbesondere bei der:
+Berliner Beauftragten für Datenschutz und Informationsfreiheit
+Alt-Moabit 59–61, 10555 Berlin
 E-Mail: mailbox@datenschutz-berlin.de
 
-## 8. Recht auf Widerspruch
-Sofern Ihre personenbezogenen Daten auf Grundlage von berechtigten Interessen gemäß Art. 6 Abs. 1 lit. f DSGVO verarbeitet werden, haben Sie das Recht, Widerspruch gegen die Verarbeitung einzulegen, sofern dafür Gründe vorliegen, die sich aus Ihrer besonderen Situation ergeben.
 
-## 9. Datensicherheit
-Wir setzen gemäß Art. 32 Abs. 1 DSGVO technische und organisatorische Maßnahmen ein, um persönliche Daten gegen zufällige oder vorsätzliche Manipulationen, Verlust, Zerstörung oder den Zugriff unberechtigter Personen zu schützen. Bitte bedenken Sie, dass keine Internetübertragung absolute Sicherheit garantiert.
 
-## 10. Aktualität und Änderung dieser Datenschutzerklärung
-Diese Datenschutzerklärung ist aktuell gültig. Durch die Weiterentwicklung unserer Website und Angebote oder aufgrund geänderter gesetzlicher beziehungsweise behördlicher Vorgaben kann es notwendig werden, diese Datenschutzerklärung zu ändern.
 
-## 11. Name und Kontaktdaten des Verantwortlichen
-Die obige Datenschutz-Information gilt für die Datenverarbeitung durch:
 
-Dr. Beate Hüttl
-{{site.address.street}}
-{{site.address.zip}} {{site.address.city}}
-E-Mail: {{site.email}}
-Telefon: {{site.phone}}
-Fax: {{site.fax}}
+
+
