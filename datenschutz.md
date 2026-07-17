@@ -1,4 +1,4 @@
-# Datenschutzerklärung
+# Datenschutzerklärung:
 
 *Stand: Juli 2026*
 
