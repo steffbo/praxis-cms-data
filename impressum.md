@@ -1,6 +1,6 @@
 # Impressum
 ## Angaben gemäß § 5 DDG
-Hautarztpraxis Dr. Beate Hüttl
+Verantwortlicher: Hautarztpraxis Dr. Beate Hüttl
 {{site.address.street}}
 {{site.address.zip}} {{site.address.city}}
 
@@ -34,14 +34,11 @@ Friedrichstraße 16, 10969 Berlin
 Deutsche Ärzteversicherung Allgemeine Zweigniederlassung der AXA Versicherung AG
 51171 Köln
 
-## Streitschlichtung
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
-[https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/)
-
-Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
 **Diensteanbieter und Verantwortlicher im Sinne von §5 DDG bzw. §55 RStV:**
 Dr. Beate Hüttl, {{site.address.street}}, {{site.address.zip}} {{site.address.city}}
+
+
 
 ## Haftungsausschluss
 ### 1. Haftung für Inhalte
