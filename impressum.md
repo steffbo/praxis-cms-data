@@ -35,7 +35,7 @@ Deutsche Ärzteversicherung Allgemeine Zweigniederlassung der AXA Versicherung A
 51171 Köln
 
 
-**Diensteanbieter und Verantwortlicher im Sinne von §5 DDG bzw. §55 RStV:**
+**Dienstanbieter und Verantwortlicher im Sinne von §5 DDG bzw. §55 RStV:**
 Dr. Beate Hüttl, {{site.address.street}}, {{site.address.zip}} {{site.address.city}}
 
 
