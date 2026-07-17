@@ -25,6 +25,22 @@ Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt auf Grund
 
 Hinweis: E-Mails können auf dem Übertragungsweg unbefugt und unbemerkt mitgelesen oder verändert werden. Bitte übertragen Sie E-Mails möglichst verschlüsselt.
 
+Des Weiteren können Sie unter anderem Rezeptanfragen und Befundanfragen an uns übermitteln. Hierbei handelt es sich um eine besondere Kategorie personenbezogener Daten im Sinne des Art. 9 Abs. 1 DSGVO, insbesondere Gesundheitsdaten, die verarbeitet werden.
+
+Die Verarbeitung dieser Daten erfolgt ausschließlich zum Zweck der Bearbeitung Ihrer Anfrage und nur, soweit Sie uns diese Daten freiwillig übermitteln.
+
+Rechtsgrundlagen der Verarbeitung sind:
+
+Art. 6 Abs. 1 Satz 1 lit. a DSGVO (Einwilligung),
+Art. 9 Abs. 2 lit. a DSGVO (ausdrückliche Einwilligung zur Verarbeitung von Gesundheitsdaten).
+
+Vor dem Absenden einer Rezept- oder Befundanfrage ist Ihre ausdrückliche Einwilligung erforderlich. Diese erfolgt über eine gesonderte Einwilligungserklärung im Datenschutzbogen, den Sie an Ihrem ersten Termin in der Praxis ausgefüllt haben. Ohne Ihre Einwilligung können Gesundheitsdaten über das Kontaktformular nicht verarbeitet werden. 
+
+Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen. Der Widerruf berührt nicht die Rechtmäßigkeit der aufgrund der Einwilligung bis zum Widerruf erfolgten Verarbeitung.
+
+Die übermittelten Daten werden ausschließlich von den für die Bearbeitung zuständigen Mitarbeitenden verarbeitet und nur so lange gespeichert, wie dies zur Bearbeitung Ihrer Anfrage sowie aufgrund gesetzlicher Aufbewahrungspflichten erforderlich ist. Eine Weitergabe an Dritte erfolgt nur, wenn hierfür eine gesetzliche Grundlage besteht oder Sie ausdrücklich eingewilligt haben.
+
+
 ## 4. Google Maps
 Auf einer gesonderten Unterseite („Anfahrt“) binden wir Kartenmaterial von Google Maps ein (Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland). Die Karte wird erst geladen, nachdem Sie aktiv zugestimmt haben. Dabei wird Ihre IP-Adresse an Google übertragen; eine Übermittlung in die USA kann nicht ausgeschlossen werden.
 Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG), die Sie jederzeit mit Wirkung für die Zukunft widerrufen können. Weitere Informationen: https://policies.google.com/privacy
