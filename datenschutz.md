@@ -29,7 +29,6 @@ Hinweis: E-Mails können auf dem Übertragungsweg unbefugt und unbemerkt mitgele
 Auf einer gesonderten Unterseite („Anfahrt“) binden wir Kartenmaterial von Google Maps ein (Anbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland). Die Karte wird erst geladen, nachdem Sie aktiv zugestimmt haben. Dabei wird Ihre IP-Adresse an Google übertragen; eine Übermittlung in die USA kann nicht ausgeschlossen werden.
 Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG), die Sie jederzeit mit Wirkung für die Zukunft widerrufen können. Weitere Informationen: https://policies.google.com/privacy
 
-
 ## 5. Externe Links (u. a. Terminbuchung)
 Unsere Website enthält einen Link zum Online-Terminservice von Doctolib sowie ggf. weitere externe Links. Wenn Sie einen solchen Link anklicken, verlassen Sie unsere Website; für die Datenverarbeitung auf der Zielseite ist der jeweilige Anbieter verantwortlich. Datenschutzhinweise von Doctolib: https://www.doctolib.de/terms/privacy-policy
 
