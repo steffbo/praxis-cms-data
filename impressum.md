@@ -1,15 +1,11 @@
 # Impressum
 ## Angaben gemäß § 5 DDG
 Verantwortlicher: 
-Hautarztpraxis Dr. Beate Hüttl
+Hautarztpraxis Dr. med. Beate Hüttl
 {{site.address.street}}
 {{site.address.zip}} {{site.address.city}}
-
-## Kontakt
 Telefon: {{site.phone}}
-Fax: {{site.fax}}
 E-Mail: {{site.email}}
-Internet: [www.dr-huettl.de](https://www.dr-huettl.de)
 
 ## Berufsbezeichnung und berufsrechtliche Regelungen
 Berufsbezeichnung: Ärztin
