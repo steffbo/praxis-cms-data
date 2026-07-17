@@ -276,7 +276,7 @@
           "image": null,
           "detailImage": null,
           "detailImageAlt": "",
-          "active": false,
+          "active": true,
           "order": 6
         },
         {
