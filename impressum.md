@@ -1,6 +1,7 @@
 # Impressum
 ## Angaben gemäß § 5 DDG
-Verantwortlicher: Hautarztpraxis Dr. Beate Hüttl
+Verantwortlicher: 
+Hautarztpraxis Dr. Beate Hüttl
 {{site.address.street}}
 {{site.address.zip}} {{site.address.city}}
 
