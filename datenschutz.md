@@ -46,7 +46,7 @@ Auf einer gesonderten Unterseite („Anfahrt“) binden wir Kartenmaterial von G
 Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG), die Sie jederzeit mit Wirkung für die Zukunft widerrufen können. Weitere Informationen: https://policies.google.com/privacy
 
 ## 5. Externe Links (u. a. Terminbuchung)
-Unsere Website enthält einen Link zum Online-Terminservice von Doctolib sowie ggf. weitere externe Links. Wenn Sie einen solchen Link anklicken, verlassen Sie unsere Website; für die Datenverarbeitung auf der Zielseite ist der jeweilige Anbieter verantwortlich. Datenschutzhinweise von Doctolib: https://www.doctolib.de/terms/privacy-policy
+Die Terminvergabe erfolgt über das Online Portal Doctolib. Die Website enthält einen Link zum Online-Terminservice von Doctolib. Wenn Sie den Link anklicken, verlassen Sie unsere Website; für die Datenverarbeitung auf der Zielseite ist der jeweilige Anbieter verantwortlich. Datenschutzhinweise von Doctolib: https://www.doctolib.de/terms/privacy-policy
 
 ## 6.  Empfänger
 Eine Weitergabe Ihrer Daten erfolgt nur, soweit dies gesetzlich zulässig oder für die genannten Zwecke erforderlich ist oder Sie eingewilligt haben. Für den technischen Betrieb setzen wir einen Hosting-Dienstleister als Auftragsverarbeiter ein. Im Rahmen einer Behandlung können Daten an weitere Stellen weitergegeben werden (z. B. Labore oder Abrechnungsstellen); hierüber informieren wir gesondert.
