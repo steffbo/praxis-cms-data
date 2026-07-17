@@ -351,7 +351,7 @@
           "images": [],
           "image": null,
           "detailImage": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/services/aesthetisch-flyer-1783692532981.webp",
-          "detailImageAlt": "Ästhetische Leistung",
+          "detailImageAlt": "",
           "active": true,
           "order": 10
         },
