@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 187,
-    "visitors": 31,
+    "pageviews": 249,
+    "visitors": 38,
     "sessions": 0
   },
   "days": {
@@ -297,6 +297,58 @@
         "Windows": 1,
         "iOS": 4,
         "Android": 2
+      },
+      "referrers": {}
+    },
+    "2026-07-20": {
+      "pageviews": 62,
+      "visitors": 7,
+      "sessions": 0,
+      "visitorHashes": [
+        "f71ab240a1d1",
+        "e974798cd387",
+        "14c7620cc7a1",
+        "4c389ba75143",
+        "1150874043bc",
+        "035b2598c50e",
+        "020bf1974ee9"
+      ],
+      "pages": {
+        "/": 16,
+        "/leistungen/aesthetisch": 4,
+        "/impressum": 13,
+        "/datenschutz": 11,
+        "/kontakt": 9,
+        "/#top": 5,
+        "/admin": 4
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 1,
+          "properties": {
+            "doctor": {
+              "general": 1
+            },
+            "location": {
+              "header": 1
+            }
+          }
+        }
+      },
+      "devices": {
+        "desktop": 2,
+        "laptop": 2,
+        "mobile": 3
+      },
+      "browsers": {
+        "firefox": 4,
+        "chrome": 2,
+        "edge": 1
+      },
+      "os": {
+        "Windows": 2,
+        "Mac OS": 2,
+        "Android": 3
       },
       "referrers": {}
     }
