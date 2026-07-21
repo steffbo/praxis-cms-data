@@ -1,3 +1,6 @@
+
+
+
 # Impressum
 Stand: Juli 2026- Hautarztpraxis Dr. med. Beate Hüttl,Berlin-Hermsdorf
 ## Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz)
@@ -16,12 +19,12 @@ E-Mail: {{site.email}}
 
 
 ## Berufsbezeichnung und berufsrechtliche Angaben:
-### Gesetzliche Berufsbezeichnung: 
+## Gesetzliche Berufsbezeichnung: 
 Ärztin (verliehen in der Bundesrepublik Deutschland)
 Fachgebiet: Fachärztin für Haut- und Geschlechtskrankheiten 
 ### Zuständige Kammer: 
 Ärztekammer Berlin, Friedrichstraße 16, 10969 Berlin, www.aerztekammer-berlin.de
-### Zuständige Aufsichtsbehörde: 
+## Zuständige Aufsichtsbehörde: 
 Landesamt für Gesundheit und Soziales Berlin (LAGeSo), Postfach 310929, 10639 Berlin
 
 Es gelten insbesondere folgende berufsrechtliche Regelungen: Berufsordnung der Ärztekammer Berlin, Gesetz über die Kammern und die Berufsgerichtsbarkeit der Ärzte (Berliner Kammergesetz), Ärzteweiterbildungsgesetz, Bundesärzteordnung (BÄO) sowie Approbationsordnung für Ärzte (ÄApprO 2002). Die Regelungen sind bei der Ärztekammer Berlin einsehbar.
