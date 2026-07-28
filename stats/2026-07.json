@@ -1,8 +1,8 @@
 {
   "month": "2026-07",
   "totals": {
-    "pageviews": 268,
-    "visitors": 43,
+    "pageviews": 272,
+    "visitors": 44,
     "sessions": 0
   },
   "days": {
@@ -411,6 +411,33 @@
         "iOS": 1
       },
       "referrers": {}
+    },
+    "2026-07-28": {
+      "pageviews": 4,
+      "visitors": 1,
+      "sessions": 0,
+      "visitorHashes": [
+        "87589997bf05"
+      ],
+      "pages": {
+        "/": 1,
+        "/kontakt": 1,
+        "/impressum": 1,
+        "/datenschutz": 1
+      },
+      "events": {},
+      "devices": {
+        "laptop": 1
+      },
+      "browsers": {
+        "firefox": 1
+      },
+      "os": {
+        "Mac OS": 1
+      },
+      "referrers": {
+        "home.remer.cc": 1
+      }
     }
   }
 }
