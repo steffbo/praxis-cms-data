@@ -530,6 +530,11 @@
             {
               "id": "img-1783713139356",
               "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/team/scr-20260710-sxqu-1783713140550.png",
+              "active": false
+            },
+            {
+              "id": "img-1785493574230",
+              "src": "https://cdn.jsdelivr.net/gh/steffbo/praxis-cms-data@main/images/team/01b0a00d-fb1d-4a54-b4a2-ecda5a91d2bb-1785493576019.jpg",
               "active": true
             }
           ],
