@@ -520,7 +520,13 @@
           "bio": "Wir freuen uns darauf, dass Frau Dr. med. Elvira Ruppel ab dem 01.10.2026 unser Team verstärkt.",
           "cv": "",
           "certifications": [],
-          "memberships": [],
+          "memberships": [
+            "DDG (Deutsche Dermatologische Gesellschaft e.V.)",
+            "BVDD (Berufsverband der Deutschen Dermatologen e.V.)",
+            "International Dermascopy Society (Internationale Gesellschaft für Auflichtmikroskopie)",
+            "DGDC (Deutsche Gesellschaft für Dermatochirurgie e.V.)",
+            "ABD (Arbeitsgemeinschaft für Berufs- und Umweltdermatologie e.V.)"
+          ],
           "languages": [
             "Deutsch",
             "Russisch",
