@@ -34,7 +34,7 @@ Versicherer: Deutsche Ärzteversicherung – Allgemeine Zweigniederlassung der A
 Räumlicher Geltungsbereich: Deutschland
 
 ## Umsatzsteuer: 
-Ärztliche Heilbehandlungen sind nach § 4 Nr. 14 UStG umsatzsteuerfrei. Eine Umsatzsteuer-Identifikationsnummer wird nur angegeben bei nicht medizinischen Indikationen. Dieser Geltungsbereich tritt bei kosmetisch-ästhetischen Eingriffen ein. USt-IdNr:  
+Ärztliche Heilbehandlungen sind nach § 4 Nr. 14 UStG umsatzsteuerfrei. Eine Umsatzsteuer-Identifikationsnummer wird nur angegeben bei nicht medizinischen Indikationen. Dieser Geltungsbereich tritt bei kosmetisch-ästhetischen Eingriffen ein. Gemäß § 19 UStG wird keine Umstzsteuer berechnet.
 
 ## Verbraucherstreitbeilegung: 
 Wir sind nicht verpflichtet und nicht bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen (§ 36 Verbraucherstreitbeilegungsgesetz).
