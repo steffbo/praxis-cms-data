@@ -519,7 +519,10 @@
           "specialization": "",
           "bio": "Wir freuen uns darauf, dass Frau Dr. med. Elvira Ruppel ab dem 01.10.2026 unser Team verstärkt.",
           "cv": "2010 Approbation als Ärztin - Charité Universitätsmedizin Berlin\n\n2017 Promotion \n\n2018 Anerkennung als Fachärztin für Haut- und Geschlechtskrankheiten",
-          "certifications": [],
+          "certifications": [
+            "Laserschutzkurs",
+            "medikamentöse Tumortherapie"
+          ],
           "memberships": [
             "DDG (Deutsche Dermatologische Gesellschaft e.V.)",
             "BVDD (Berufsverband der Deutschen Dermatologen e.V.)",
