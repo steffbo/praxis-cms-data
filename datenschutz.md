@@ -9,6 +9,7 @@ Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datens
 Dr. med. Beate Hüttl
 Kurfürstenstraße 28, 13467 Berlin-Hermsdorf
 Telefon: (030) 405 33 755, Fax: (030) 405 33 788
+E-Mail: praxis@dr-huettl.de
 
 
 ## 2. Aufruf der Website (Server-Logfiles):
@@ -34,16 +35,14 @@ Wir löschen diese Daten, sobald Ihre Anfrage abschließend bearbeitet ist, sofe
 ## 6. Kontaktformular:
 Über das Kontaktformular können Sie uns eine Nachricht zukommen lassen. Verarbeitet werden die von Ihnen angegebenen Daten (u. a. Name, E-Mail-Adresse, Telefonnummer, Betreff und Nachrichtentext) zum Zweck der Bearbeitung Ihrer Anfrage und für den Fall von Anschlussfragen. Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die Sie vor dem Absenden erteilen und jederzeit mit Wirkung für die Zukunft widerrufen können.
 
-## 7. Terminbuchung über Doctolib (externer Link):
-Die Online-Terminvergabe erfolgt über den externen Dienst Doctolib (Doctolib GmbH bzw. Doctolib SAS). Unsere Website enthält hierzu lediglich einen Link. Wenn Sie diesen anklicken, verlassen Sie unsere Website und werden zu Doctolib weitergeleitet; für die dortige Datenverarbeitung ist Doctolib verantwortlich. Es gelten die Datenschutzhinweise von Doctolib: https://www.doctolib.de/terms/privacy-policy
+## 7. Terminverwaltung und Terminbuchung über Doctolib:
+Für die Verwaltung sämtlicher Termine nutzt die Praxis ausschließlich Doctolib; ein weiteres Kalendersystem wird nicht eingesetzt. Termine werden sowohl bei Online-Buchungen als auch bei telefonischer oder persönlicher Vereinbarung in Doctolib verwaltet. Dabei werden die für die Terminverwaltung erforderlichen Stamm-, Kontakt- und Termindaten sowie gegebenenfalls Gesundheitsdaten verarbeitet. Rechtsgrundlagen sind Art. 6 Abs. 1 lit. b DSGVO und, soweit Gesundheitsdaten betroffen sind, Art. 9 Abs. 2 lit. h DSGVO.
 
-
-[Hinweis (vor Veröffentlichung entfernen): Soweit Doctolib als Terminverwaltung der Praxis genutzt wird und dabei Patienten-/Gesundheitsdaten im Auftrag verarbeitet, muss zusätzlich ein Auftragsverarbeitungsvertrag (Art. 28 DSGVO) mit Doctolib bestehen; dieser Umstand kann hier ergänzt werden.]
----> Doctolib wird als einziges Portal für Termine genutzt, ob in der Praxis oder Online, es gibt kein anderes Kalendersystem!
+Für die Online-Terminbuchung enthält unsere Website einen Link zum Angebot der Doctolib GmbH, Friedrichstraße 111, 10117 Berlin. Wenn Sie diesen anklicken, verlassen Sie unsere Website und werden zu Doctolib weitergeleitet; für die Datenverarbeitung auf dem Doctolib-Portal ist Doctolib verantwortlich. Es gelten die Datenschutzhinweise von Doctolib: https://doctolib.legal/privacy-policy-B2C-DE
 
 ## 8. Kartendienst OpenStreetMap:
 Auf unserer Kontaktseite („Anfahrt“) binden wir Kartenmaterial des Dienstes OpenStreetMap ein. Anbieter ist die OpenStreetMap Foundation, St John’s Innovation Centre, Cowley Road, Cambridge, CB4 0WS, Vereinigtes Königreich.
-Die Karte wird nicht automatisch geladen. Erst wenn Sie sie durch Anklicken der Schaltfläche („Karte laden“) aktiv aufrufen, wird eine Verbindung zu den Servern von OpenStreetMap hergestellt und Ihre IP-Adresse dorthin übertragen; dies ist technisch erforderlich, um die Karteninhalte anzuzeigen. OpenStreetMap setzt dabei keine Cookies und erstellt keine Nutzerprofile.
+Die Karte wird nicht automatisch geladen. Erst wenn Sie sie durch Anklicken der Schaltfläche („Karte laden“) aktiv aufrufen, wird eine Verbindung zu den Servern von OpenStreetMap hergestellt und Ihre IP-Adresse dorthin übertragen; dies ist technisch erforderlich, um die Karteninhalte anzuzeigen. Nach Angaben der OpenStreetMap Foundation setzt der Kartendienst dabei keine Cookies ein. Ob und in welchem Umfang OpenStreetMap weitere Daten verarbeitet, richtet sich nach den Datenschutzbestimmungen des Anbieters.
 Rechtsgrundlage ist Ihre Einwilligung, die Sie durch das Anklicken erteilen (Art. 6 Abs. 1 lit. a DSGVO i. V. m. § 25 Abs. 1 TDDDG); Sie können sie jederzeit mit Wirkung für die Zukunft widerrufen. Für das Vereinigte Königreich besteht ein Angemessenheitsbeschluss der EU-Kommission (Art. 45 DSGVO). Weitere Informationen: https://wiki.osmfoundation.org/wiki/Privacy_Policy
 
 ## 9. Empfänger und Weitergabe von Daten:
@@ -71,7 +70,6 @@ Wir treffen gemäß Art. 32 DSGVO technische und organisatorische Maßnahmen, um
 
 ## 14. Änderungen dieser Datenschutzerklärung:
 Wir passen diese Datenschutzerklärung an, sobald Änderungen der von uns durchgeführten Datenverarbeitung oder geänderte gesetzliche bzw. behördliche Vorgaben dies erforderlich machen. Es gilt die jeweils auf dieser Website veröffentlichte Fassung.
-
 
 
 
