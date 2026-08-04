@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
   "totals": {
-    "pageviews": 3,
-    "visitors": 3,
+    "pageviews": 11,
+    "visitors": 9,
     "sessions": 0
   },
   "days": {
@@ -44,6 +44,40 @@
       "referrers": {
         "www.google.com": 2
       }
+    },
+    "2026-08-04": {
+      "pageviews": 8,
+      "visitors": 6,
+      "sessions": 0,
+      "visitorHashes": [
+        "e010e875b735",
+        "feb9a9ad6935",
+        "25437fdcd8bd",
+        "836a5bc3494b",
+        "90841a989a51",
+        "d1d97ad5bd70"
+      ],
+      "pages": {
+        "/": 7,
+        "/#leistungen": 1
+      },
+      "events": {},
+      "devices": {
+        "mobile": 5,
+        "desktop": 1
+      },
+      "browsers": {
+        "safari": 2,
+        "edge": 1,
+        "chrome": 1,
+        "firefox": 2
+      },
+      "os": {
+        "iOS": 2,
+        "Windows": 1,
+        "Android": 3
+      },
+      "referrers": {}
     }
   }
 }
