@@ -1,8 +1,8 @@
 {
   "month": "2026-08",
   "totals": {
-    "pageviews": 11,
-    "visitors": 9,
+    "pageviews": 17,
+    "visitors": 12,
     "sessions": 0
   },
   "days": {
@@ -76,6 +76,49 @@
         "iOS": 2,
         "Windows": 1,
         "Android": 3
+      },
+      "referrers": {}
+    },
+    "2026-08-05": {
+      "pageviews": 6,
+      "visitors": 3,
+      "sessions": 0,
+      "visitorHashes": [
+        "88f6932fc11f",
+        "e8cf1258ef9e",
+        "b35da11ffc92"
+      ],
+      "pages": {
+        "/#leistungen": 2,
+        "/": 3,
+        "/impressum": 1
+      },
+      "events": {
+        "doctolib-click": {
+          "total": 1,
+          "properties": {
+            "doctor": {
+              "general": 1
+            },
+            "location": {
+              "bottom-cta": 1
+            }
+          }
+        }
+      },
+      "devices": {
+        "mobile": 1,
+        "desktop": 1,
+        "laptop": 1
+      },
+      "browsers": {
+        "firefox": 2,
+        "chrome": 1
+      },
+      "os": {
+        "Android": 1,
+        "Windows": 1,
+        "Mac OS": 1
       },
       "referrers": {}
     }
